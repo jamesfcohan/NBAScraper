@@ -1,0 +1,5186 @@
+Indiana 97, Orlando 87
+
+Miami 107, Chicago 95
+
+LA Lakers 116, LA Clippers 103
+
+Cleveland 98, Brooklyn 94
+
+Philadelphia 114, Miami 110
+
+Toronto 93, Boston 87
+
+Detroit 113, Washington 102
+
+New York 90, Milwaukee 83
+
+Houston 96, Charlotte 83
+
+Minnesota 120, Orlando 115 (OT)
+
+Indiana 95, New Orleans 90
+
+Dallas 118, Atlanta 109
+
+San Antonio 101, Memphis 94
+
+Oklahoma City 101, Utah 98
+
+Phoenix 104, Portland 91
+
+Sacramento 90, Denver 88
+
+Golden State 125, LA Lakers 94
+
+Chicago 82, New York 81
+
+LA Clippers 126, Golden State 115
+
+Charlotte 90, Cleveland 84
+
+Orlando 110, New Orleans 90
+
+Philadelphia 109, Washington 102
+
+Atlanta 102, Toronto 95
+
+Milwaukee 105, Boston 98
+
+Houston 113, Dallas 105
+
+Memphis 111, Detroit 108 (OT)
+
+Minnesota 100, Oklahoma City 81
+
+Brooklyn 101, Miami 100
+
+Portland 113, Denver 98
+
+Phoenix 87, Utah 84
+
+LA Clippers 110, Sacramento 101
+
+San Antonio 91, LA Lakers 85
+
+Indiana 89, Cleveland 74
+
+Philadelphia 107, Chicago 104
+
+New Orleans 105, Charlotte 84
+
+Dallas 111, Memphis 99
+
+Toronto 97, Milwaukee 90
+
+Houston 104, Utah 93
+
+Portland 115, San Antonio 105
+
+Golden State 98, Sacramento 87
+
+Detroit 87, Boston 77
+
+Miami 103, Washington 93
+
+Orlando 107, Brooklyn 86
+
+Oklahoma City 103, Phoenix 96
+
+Minnesota 109, New York 100
+
+LA Lakers 105, Atlanta 103
+
+Cleveland 93, Minnesota 92
+
+Golden State 110, Philadelphia 90
+
+Memphis 95, Boston 88
+
+LA Clippers 137, Houston 118
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488874&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488875&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488876&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488877&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488878&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488879&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488880&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488881&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488882&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488883&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488884&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488885&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488886&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488887&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488888&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488889&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488890&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488891&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488892&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488893&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488894&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488895&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488896&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488897&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488898&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488899&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488900&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488901&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488902&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488903&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488904&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488905&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488906&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488907&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488908&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488909&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488910&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488911&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488912&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488913&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488914&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488915&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488916&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488917&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488918&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488919&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488920&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488921&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488922&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488923&period=0
+
+Miami 104, Toronto 95
+
+Brooklyn 104, Utah 88
+
+Indiana 99, Detroit 91
+
+Charlotte 102, New York 97
+
+Phoenix 104, New Orleans 98
+
+Dallas 123, LA Lakers 104
+
+San Antonio 102, Denver 94
+
+Houston 116, Portland 101
+
+Atlanta 105, Sacramento 100
+
+Charlotte 92, Toronto 90
+
+Indiana 97, Chicago 80
+
+Orlando 98, LA Clippers 90
+
+Washington 116, Philadelphia 102
+
+Boston 97, Utah 87
+
+New Orleans 99, Memphis 84
+
+Milwaukee 109, Cleveland 104
+
+Golden State 106, Minnesota 93
+
+San Antonio 99, Phoenix 96
+
+Oklahoma City 107, Dallas 93
+
+Miami 102, LA Clippers 97
+
+Denver 109, Atlanta 107
+
+LA Lakers 99, Houston 98
+
+New York 101, Charlotte 91
+
+Indiana 91, Toronto 84
+
+Boston 91, Orlando 89
+
+Philadelphia 94, Cleveland 79
+
+Washington 112, Brooklyn 108 (OT)
+
+Oklahoma City 119, Detroit 110
+
+Chicago 97, Utah 73
+
+Minnesota 116, Dallas 108
+
+New Orleans 96, LA Lakers 85
+
+San Antonio 76, Golden State 74
+
+Phoenix 114, Denver 103
+
+Portland 104, Sacramento 91
+
+Toronto 115, Utah 91
+
+Atlanta 104, Orlando 94
+
+Indiana 96, Brooklyn 91
+
+Cleveland 127, Philadelphia 125 (OT)
+
+Boston 111, Miami 110
+
+LA Clippers 107, Houston 94
+
+Memphis 108, Golden State 90
+
+Dallas 91, Milwaukee 83
+
+Portland 96, Sacramento 85
+
+San Antonio 120, New York 89
+
+Oklahoma City 106, Washington 105 (OT)
+
+Phoenix 101, New Orleans 94
+
+Minnesota 113, LA Lakers 90
+
+Atlanta 103, Charlotte 94
+
+Indiana 95, Memphis 79
+
+San Antonio 109, Philadelphia 85
+
+Boston 120, Orlando 105
+
+Chicago 96, Cleveland 81
+
+Houston 110, Toronto 104 (OT)
+
+Denver 100, Utah 81
+
+Portland 109, Detroit 103
+
+LA Clippers 109, Minnesota 107
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488924&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488925&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488926&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488927&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488928&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488929&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488930&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488931&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488932&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488933&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488934&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488935&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488936&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488937&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488938&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488939&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488940&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488941&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488942&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488943&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488944&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488945&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488946&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488947&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488948&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488949&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488950&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488951&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488952&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488953&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488954&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488955&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488956&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488957&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488958&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488959&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488960&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488961&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488962&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488963&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488964&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488965&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488966&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488967&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488968&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488969&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488970&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488971&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488972&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488973&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488974&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488975&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488976&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488977&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488978&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488979&period=0
+
+Miami 118, Milwaukee 95
+
+Dallas 105, Washington 95
+
+Golden State 113, Detroit 95
+
+LA Lakers 116, New Orleans 95
+
+Orlando 94, Milwaukee 91
+
+Philadelphia 123, Houston 117 (OT)
+
+Charlotte 89, Boston 83
+
+Toronto 103, Memphis 87
+
+Minnesota 124, Cleveland 95
+
+New York 95, Atlanta 91
+
+San Antonio 92, Washington 79
+
+Denver 111, LA Lakers 99
+
+Utah 111, New Orleans 105
+
+Portland 90, Phoenix 89
+
+Sacramento 107, Brooklyn 86
+
+LA Clippers 111, Oklahoma City 103
+
+Houston 109, New York 106
+
+Golden State 116, Oklahoma City 115
+
+Indiana 104, Milwaukee 77
+
+Chicago 96, Toronto 80
+
+Atlanta 113, Philadelphia 103
+
+Portland 109, Boston 96
+
+Charlotte 86, Cleveland 80
+
+Miami 110, Dallas 104
+
+Denver 117, Minnesota 113
+
+Brooklyn 100, Phoenix 98 (OT)
+
+San Antonio 91, Utah 82
+
+Memphis 89, LA Lakers 86
+
+Detroit 97, Sacramento 90
+
+Miami 97, Charlotte 81
+
+Dallas 108, Orlando 100
+
+Cleveland 103, Washington 96 (OT)
+
+Atlanta 110, New York 90
+
+Chicago 110, Indiana 94
+
+Houston 122, Denver 111
+
+Minnesota 106, Boston 88
+
+New Orleans 135, Philadelphia 98
+
+Oklahoma City 92, Milwaukee 79
+
+Golden State 102, Utah 88
+
+LA Clippers 110, Brooklyn 103
+
+Portland 118, Toronto 110 (OT)
+
+Memphis 97, Sacramento 86
+
+LA Lakers 114, Detroit 99
+
+Portland 108, Brooklyn 98
+
+Chicago 86, Charlotte 81
+
+Oklahoma City 115, Denver 113
+
+Dallas 97, Philadelphia 94
+
+Golden State 98, Utah 87
+
+Memphis 106, LA Clippers 102
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488980&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488981&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488982&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488983&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488984&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488985&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488986&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488987&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488988&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488989&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488990&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488991&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488992&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488993&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488994&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488995&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488996&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488997&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488998&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400488999&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489000&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489001&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489002&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489003&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489004&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489005&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489006&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489007&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489008&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489009&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489010&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489011&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489012&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489013&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489014&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489015&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489016&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489017&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489018&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489019&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489020&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489021&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489023&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489024&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489025&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489026&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489027&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489028&period=0
+
+Washington 104, Minnesota 100
+
+Detroit 92, New York 86
+
+Miami 104, Atlanta 88
+
+Houston 109, Boston 85
+
+Sacramento 107, Phoenix 104
+
+Charlotte 95, Brooklyn 91
+
+Washington 98, Cleveland 91
+
+Indiana 103, New York 96 (OT)
+
+Miami 120, Orlando 92
+
+Toronto 108, Philadelphia 98
+
+Atlanta 93, Detroit 85
+
+Portland 91, Milwaukee 82
+
+LA Clippers 102, Minnesota 98
+
+New Orleans 105, Utah 98
+
+San Antonio 104, Boston 93
+
+Sacramento 113, Phoenix 106
+
+Dallas 123, Houston 120
+
+Memphis 88, Golden State 81 (OT)
+
+Oklahoma City 105, LA Clippers 91
+
+Denver 97, Chicago 87
+
+Phoenix 98, Charlotte 91
+
+Philadelphia 115, Milwaukee 107 (OT)
+
+Toronto 96, Washington 88
+
+Indiana 97, Boston 82
+
+Atlanta 96, Detroit 89
+
+San Antonio 102, Memphis 86
+
+Minnesota 111, Brooklyn 81
+
+New Orleans 104, Cleveland 100
+
+Dallas 103, Utah 93
+
+Portland 98, Chicago 95
+
+LA Lakers 102, Golden State 95
+
+LA Clippers 103, Sacramento 102
+
+Indiana 106, Philadelphia 98
+
+Washington 98, New York 89
+
+Boston 94, Atlanta 87
+
+Miami 101, Orlando 99
+
+Houston 112, Minnesota 101
+
+Charlotte 96, Milwaukee 72
+
+San Antonio 126, Cleveland 96
+
+Denver 102, Dallas 100
+
+Portland 113, Golden State 101
+
+Detroit 109, Brooklyn 97
+
+LA Clippers 121, Chicago 82
+
+Phoenix 104, Orlando 96
+
+Oklahoma City 95, Utah 73
+
+LA Lakers 100, Sacramento 86
+
+Boston 96, Charlotte 86
+
+Indiana 98, Minnesota 84
+
+Detroit 113, Milwaukee 94
+
+Miami 107, Phoenix 92
+
+Houston 93, Memphis 86
+
+Denver 110, Dallas 96
+
+San Antonio 112, New Orleans 93
+
+Utah 89, Chicago 83 (OT)
+
+Portland 102, New York 91
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489029&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489030&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489031&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489032&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489033&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489034&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489035&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489036&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489037&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489038&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489039&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489040&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489041&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489042&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489043&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489044&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489045&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489046&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489047&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489048&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489049&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489050&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489051&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489052&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489053&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489054&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489055&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489056&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489057&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489058&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489059&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489060&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489061&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489062&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489063&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489064&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489065&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489066&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489067&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489068&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489069&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489070&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489071&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489072&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489073&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489074&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489075&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489076&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489077&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489078&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489079&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489080&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489081&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489082&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489083&period=0
+
+Brooklyn 102, Toronto 100
+
+Washington 116, LA Lakers 111
+
+Orlando 109, Atlanta 92
+
+Golden State 102, New Orleans 101
+
+Indiana 99, Charlotte 74
+
+Orlando 105, Philadelphia 94
+
+Memphis 100, Boston 93
+
+LA Lakers 99, Brooklyn 94
+
+Miami 95, Cleveland 84
+
+Chicago 99, Detroit 79
+
+Houston 113, Atlanta 84
+
+Washington 100, Milwaukee 92 (OT)
+
+Denver 117, Minnesota 110
+
+Oklahoma City 94, San Antonio 88
+
+Dallas 103, Golden State 99
+
+Phoenix 120, Portland 106
+
+LA Clippers 93, New York 80
+
+Charlotte 92, Milwaukee 76
+
+San Antonio 109, Orlando 91
+
+Miami 90, Toronto 83
+
+Atlanta 88, Dallas 87
+
+Boston 103, Cleveland 86
+
+LA Lakers 106, Detroit 102
+
+Houston 114, Brooklyn 95
+
+Oklahoma City 113, Golden State 112 (OT)
+
+Indiana 93, Washington 73
+
+New Orleans 121, Philadelphia 105
+
+Denver 97, New York 95
+
+Phoenix 112, Utah 101
+
+LA Clippers 104, Sacramento 98 (OT)
+
+Washington 108, Atlanta 101
+
+Cleveland 97, Chicago 93
+
+Brooklyn 97, Memphis 88
+
+Minnesota 112, Dallas 106
+
+Houston 112, San Antonio 106
+
+Utah 112, Phoenix 104
+
+Milwaukee 92, Boston 85
+
+Denver 112, Toronto 98
+
+Indiana 105, LA Clippers 100
+
+Detroit 115, Philadelphia 100
+
+Golden State 115, Sacramento 113
+
+Miami 99, Charlotte 98
+
+Oklahoma City 113, Minnesota 103
+
+New Orleans 103, New York 99
+
+Portland 114, LA Lakers 108
+
+Washington 98, Orlando 80
+
+New Orleans 131, Chicago 128 (OT)
+
+San Antonio 102, Atlanta 100
+
+Utah 109, Houston 103
+
+Portland 106, Indiana 102
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489084&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489085&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489086&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489087&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489088&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489089&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489090&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489091&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489092&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489093&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489094&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489095&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489096&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489097&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489098&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489099&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489100&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489101&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489102&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489103&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489104&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489105&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489106&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489107&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489108&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489109&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489110&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489111&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489112&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489113&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489114&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489115&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489116&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489117&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489118&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489119&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489120&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489121&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489122&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489123&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489124&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489125&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489126&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489127&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489128&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489129&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489130&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489131&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489132&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489133&period=0
+
+Philadelphia 126, Orlando 125 (OT)
+
+Boston 108, Milwaukee 100
+
+Denver 111, Brooklyn 87
+
+Detroit 107, Miami 97
+
+Memphis 110, Phoenix 91
+
+Dallas 89, Charlotte 82
+
+Oklahoma City 97, Sacramento 95
+
+Golden State 112, Toronto 103
+
+Cleveland 98, Denver 88
+
+Atlanta 107, LA Clippers 97
+
+Phoenix 97, Houston 88
+
+Detroit 105, Milwaukee 98
+
+Dallas 100, New Orleans 97
+
+Indiana 95, Utah 86
+
+Portland 111, Oklahoma City 104
+
+San Antonio
+
+Minnesota
+
+New York 113, Brooklyn 83
+
+LA Clippers 101, Memphis 81
+
+Chicago 107, Miami 87
+
+Charlotte 105, Philadelphia 88
+
+Milwaukee 109, Washington 105 (OT)
+
+Atlanta 108, Cleveland 89
+
+Boston 106, Denver 98
+
+New York 121, Orlando 83
+
+Houston 105, Golden State 83
+
+Oklahoma City 109, New Orleans 95
+
+Phoenix 106, Toronto 97
+
+Portland 130, Utah 98
+
+LA Lakers 106, Sacramento 100
+
+Denver 103, Philadelphia 92
+
+Cleveland 88, LA Clippers 82
+
+Detroit 92, Chicago 75
+
+Golden State 108, Memphis 82
+
+Miami 103, Minnesota 82
+
+Brooklyn 90, Milwaukee 82
+
+Indiana 111, San Antonio 100
+
+Sacramento 112, Utah 102 (OT)
+
+Dallas 108, Portland 106
+
+Boston 114, New York 73
+
+Miami 110, Detroit 95
+
+Houston 98, Orlando 88
+
+Oklahoma City 118, Indiana 94
+
+Toronto 106, LA Lakers 94
+
+Charlotte 115, Golden State 111
+
+LA Clippers 94, Philadelphia 83
+
+Denver 75, Washington 74
+
+Memphis 94, Orlando 85
+
+Portland 105, Utah 94
+
+Sacramento 112, Dallas 97
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489134&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489135&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489136&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489137&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489138&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489139&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489140&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489141&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489142&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489143&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489144&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489145&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489146&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489147&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489149&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?id=400559378&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?id=400490091&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489150&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489151&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489152&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489153&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489154&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489155&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489156&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489157&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489158&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489159&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489160&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489161&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489162&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489163&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489164&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489165&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489166&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489167&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489168&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489169&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489170&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489171&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489172&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489173&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489174&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489175&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489176&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489177&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489178&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489179&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489180&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489181&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489182&period=0
+
+Cleveland 109, New York 94
+
+Indiana 90, Miami 84
+
+San Antonio 116, Toronto 103
+
+Oklahoma City 101, Atlanta 92
+
+Brooklyn 104, Boston 96
+
+Minnesota 121, Detroit 94
+
+Milwaukee 78, Chicago 74
+
+Phoenix 114, LA Lakers 108
+
+Orlando 92, Charlotte 83
+
+LA Clippers 96, Boston 88
+
+Oklahoma City 116, Memphis 100
+
+San Antonio 109, Milwaukee 77
+
+Minnesota 106, Philadelphia 99
+
+New Orleans 111, Detroit 106 (OT)
+
+New York 83, Chicago 78
+
+Utah 122, Sacramento 101
+
+Golden State 95, Dallas 93
+
+Brooklyn 102, LA Clippers 93
+
+Portland 111, Houston 104
+
+Indiana 99, Charlotte 94
+
+Toronto 108, Philadelphia 100
+
+Atlanta 101, Washington 99 (OT)
+
+Boston 90, New York 86
+
+Detroit 103, Brooklyn 99
+
+New Orleans 104, Memphis 98
+
+Oklahoma City 122, LA Lakers 97
+
+Chicago 91, Milwaukee 90
+
+San Antonio 117, Minnesota 110
+
+Utah 103, Denver 93
+
+Phoenix 116, Sacramento 107
+
+Houston 116, Golden State 112
+
+LA Lakers 88, Charlotte 85
+
+LA Clippers 113, Washington 97
+
+Miami 114, Cleveland 107
+
+New York 111, Atlanta 106
+
+Toronto 99, Chicago 77
+
+Portland 139, Philadelphia 105
+
+Dallas 106, Milwaukee 93
+
+San Antonio 100, Utah 84
+
+Sacramento 106, Houston 91
+
+Minnesota 101, Memphis 93
+
+Portland 111, Detroit 109 (OT)
+
+Oklahoma City 101, Orlando 98
+
+Denver 102, New Orleans 93
+
+Phoenix 106, Golden State 102
+
+Detroit 101, Indiana 96
+
+Atlanta 114, LA Lakers 100
+
+Boston 101, Minnesota 97
+
+Brooklyn 130, Philadelphia 94
+
+Miami 117, Utah 94
+
+Washington 102, New York 101
+
+Orlando 83, Chicago 82
+
+LA Clippers 115, San Antonio 92
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489183&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489184&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489185&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489186&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489187&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489188&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489189&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489190&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489191&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489192&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489193&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489194&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489195&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489196&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489197&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489198&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489199&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489200&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489201&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489202&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489204&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489205&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489206&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489207&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489208&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489209&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489210&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489211&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489212&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489213&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489214&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489215&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489216&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489217&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489218&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489219&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489220&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489221&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489222&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489223&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489224&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489225&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489226&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489227&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489228&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489229&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489230&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489231&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489232&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489233&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489234&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489235&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489236&period=0
+
+Charlotte 95, Sacramento 87
+
+Portland 119, Cleveland 116
+
+LA Lakers 96, Memphis 92
+
+Oklahoma City 105, Denver 93
+
+Golden State 104, New Orleans 93
+
+Miami 97, Indiana 94
+
+Utah 86, Orlando 82
+
+Charlotte 104, Toronto 102 (OT)
+
+Atlanta 124, Sacramento 107
+
+Detroit 107, Boston 106
+
+Washington 113, Brooklyn 107
+
+New York 107, Milwaukee 101 (OT)
+
+Minnesota 120, Portland 109
+
+Dallas 105, Memphis 91
+
+San Antonio 108, Phoenix 101
+
+Houston 109, Chicago 94
+
+LA Clippers 108, New Orleans 95
+
+Oklahoma City 107, Chicago 95
+
+San Antonio 104, Golden State 102
+
+Philadelphia 121, Brooklyn 120 (OT)
+
+Atlanta 118, Utah 85
+
+Cleveland 114, Milwaukee 111 (OT)
+
+Charlotte 116, Detroit 106
+
+Miami 122, Sacramento 103
+
+Indiana 114, Houston 81
+
+Toronto 109, Dallas 108 (OT)
+
+Phoenix 103, Denver 99
+
+LA Lakers 104, Minnesota 91
+
+Memphis 95, New York 87
+
+Washington 106, Boston 99
+
+Sacramento 105, Orlando 100
+
+Utah 88, Charlotte 85
+
+Houston 114, Detroit 97
+
+Chicago 100, Cleveland 84
+
+Milwaukee 116, Philadelphia 106
+
+Oklahoma City 113, San Antonio 100
+
+Phoenix 123, Dallas 108
+
+Portland 110, New Orleans 107
+
+Golden State 102, LA Lakers 83
+
+LA Clippers 112, Denver 91
+
+Indiana 106, Boston 79
+
+Toronto 104, Oklahoma City 98
+
+LA Clippers 120, Minnesota 116 (OT)
+
+Charlotte 111, Milwaukee 110 (OT)
+
+Detroit 115, Cleveland 92
+
+New York 103, Orlando 98
+
+Indiana 103, Brooklyn 86
+
+Miami 121, Atlanta 119 (OT)
+
+Dallas 111, Houston 104
+
+Memphis 104, Utah 94
+
+San Antonio 112, Toronto 99
+
+Golden State 89, Denver 81
+
+Phoenix 117, LA Lakers 90
+
+New Orleans 113, Sacramento 100
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489237&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489238&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489239&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489240&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489241&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489242&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489243&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489244&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489245&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489246&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489247&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489248&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489249&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489250&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489251&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489252&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489253&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489254&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489255&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489256&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489257&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489258&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489259&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489260&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489261&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489262&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489263&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489264&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489265&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489266&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489268&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489267&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489269&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489270&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489271&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489272&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489273&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489274&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489275&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489276&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489277&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489278&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489279&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489280&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489281&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489282&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489283&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489284&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489285&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489286&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489287&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489288&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489289&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489290&period=0
+
+Chicago 95, Brooklyn 78
+
+Oklahoma City 123, New York 94
+
+Miami 101, LA Lakers 95
+
+Houston 111, San Antonio 98
+
+Golden State 105, LA Clippers 103
+
+Atlanta 127, Cleveland 125 (OT)
+
+Houston 100, Memphis 92
+
+San Antonio 116, Dallas 107
+
+Portland 116, LA Clippers 112 (OT)
+
+Oklahoma City 89, Charlotte 85
+
+Orlando 109, Detroit 92
+
+Brooklyn 104, Milwaukee 93
+
+Toronto 95, New York 83
+
+Minnesota 120, Washington 98
+
+New Orleans 105, Denver 89
+
+Utah 105, LA Lakers 103
+
+Sacramento 108, Miami 103 (OT)
+
+Golden State 115, Phoenix 86
+
+Boston 103, Cleveland 100
+
+Indiana 105, Brooklyn 91
+
+Toronto 115, New York 100
+
+Washington 106, Detroit 82
+
+Atlanta 118, Charlotte 116 (OT)
+
+Dallas 105, Chicago 83
+
+Houston 107, New Orleans 98
+
+Memphis 120, Denver 99
+
+Minnesota 117, Milwaukee 95
+
+Phoenix 115, Philadelphia 101
+
+Miami 108, Portland 107
+
+LA Clippers 98, Utah 90
+
+Golden State 108, Cleveland 104 (OT)
+
+Orlando 109, Atlanta 102
+
+Oklahoma City 117, Houston 86
+
+San Antonio 112, Sacramento 104
+
+Philadelphia 111, LA Lakers 104
+
+Washington 106, Detroit 99
+
+Chicago 95, Memphis 91
+
+Dallas 100, Minnesota 98
+
+New Orleans 110, Portland 108
+
+Miami 97, Denver 94
+
+Utah 83, Charlotte 80
+
+Phoenix 107, LA Clippers 88
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489291&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489292&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489293&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489294&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489295&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489296&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489297&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489298&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489299&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489300&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489301&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489302&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489303&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489304&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489305&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489306&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489307&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489308&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489309&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489310&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489311&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489312&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489313&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489314&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489315&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489316&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489317&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489318&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489319&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489320&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489321&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489322&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489323&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489324&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489325&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489326&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489327&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489328&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489329&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489330&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489331&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489332&period=0
+
+Atlanta 92, Boston 91
+
+Indiana 91, Cleveland 76
+
+Golden State 94, Orlando 81
+
+Sacramento 110, Houston 106
+
+San Antonio 113, Brooklyn 92
+
+Toronto 85, Chicago 79
+
+Portland 98, Oklahoma City 94
+
+Milwaukee 94, LA Lakers 79
+
+Dallas 87, Washington 78
+
+Toronto 95, Indiana 82
+
+Minnesota 124, New Orleans 112
+
+Philadelphia 114, Denver 102
+
+LA Clippers 112, Charlotte 85
+
+Cleveland 87, Orlando 81 (OT)
+
+Golden State 123, Miami 114
+
+Chicago 94, Boston 82
+
+Brooklyn 95, Oklahoma City 93
+
+New York 105, San Antonio 101
+
+Memphis 99, Phoenix 91
+
+Utah 96, Milwaukee 87
+
+Portland 134, Charlotte 104
+
+Philadelphia 113, Sacramento 104
+
+Toronto 101, Washington 88
+
+Golden State 101, Atlanta 100
+
+New Orleans 95, Boston 92
+
+Houston 102, New York 100
+
+LA Clippers 119, Dallas 112
+
+Denver 111, Memphis 108
+
+LA Lakers 110, Utah 99
+
+Indiana 99, New Orleans 82
+
+Miami 110, Orlando 94
+
+Brooklyn 89, Cleveland 82
+
+Chicago 91, Atlanta 84
+
+Oklahoma City 115, Minnesota 111
+
+San Antonio 116, LA Clippers 92
+
+Phoenix 116, Milwaukee 100
+
+Philadelphia 101, Portland 99
+
+Charlotte 113, Sacramento 103
+
+Memphis 112, Detroit 84
+
+Indiana 82, Cleveland 78
+
+Miami 102, Toronto 97
+
+Golden State 112, Washington 96
+
+Oklahoma City 119, Boston 96
+
+New York 92, Dallas 80
+
+Denver 137, LA Lakers 115
+
+Minnesota 126, Philadelphia 95
+
+Brooklyn 91, Atlanta 86
+
+LA Clippers 101, Orlando 81
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489333&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489334&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489335&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489337&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489338&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489336&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489339&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489340&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489341&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489342&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489343&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489344&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489345&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489346&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489347&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489348&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489349&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489350&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489351&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489352&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489353&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489354&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489355&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489356&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489357&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489358&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489359&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489360&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489361&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489362&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489363&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489364&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489365&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489366&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489367&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489368&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489369&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489370&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489371&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489372&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489373&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489374&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489375&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489376&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489377&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489378&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489379&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489380&period=0
+
+Washington 97, Charlotte 83
+
+Cleveland 111, Philadelphia 93
+
+Indiana 86, Toronto 79
+
+Miami 107, New Orleans 88
+
+New York 89, Detroit 85
+
+Chicago 92, Phoenix 87
+
+San Antonio 110, Memphis 108 (OT)
+
+Golden State 101, Milwaukee 80
+
+Dallas 110, LA Lakers 97
+
+Denver 129, Boston 98
+
+Utah 112, Oklahoma City 101
+
+Sacramento 123, Portland 119
+
+San Antonio 112, Dallas 90
+
+Toronto 112, Detroit 91
+
+Atlanta 97, Indiana 87
+
+Brooklyn 102, Golden State 98
+
+Washington 102, New Orleans 96
+
+Houston 113, LA Lakers 99
+
+Phoenix 104, Minnesota 103
+
+Portland 110, Orlando 94
+
+LA Clippers 111, Boston 105
+
+New York 102, Miami 92
+
+Denver 101, Oklahoma City 88
+
+Indiana 93, Washington 66
+
+Detroit 114, Philadelphia 104
+
+Atlanta 83, Houston 80
+
+Memphis 104, Phoenix 99
+
+Minnesota 119, Charlotte 92
+
+Dallas 107, New Orleans 90
+
+Brooklyn 104, Miami 95 (OT)
+
+Chicago 81, Milwaukee 72
+
+Cleveland 113, Utah 102
+
+Sacramento 103, Orlando 83
+
+Golden State 99, Boston 97
+
+LA Clippers 123, LA Lakers 87
+
+Toronto 96, Brooklyn 80
+
+Houston 114, Washington 107
+
+Detroit 110, Phoenix 108
+
+New York 102, Philadelphia 92
+
+Chicago 103, Charlotte 97
+
+Oklahoma City 101, Milwaukee 85
+
+Dallas 110, New Orleans 107
+
+Denver 120, Orlando 94
+
+Portland 112, Boston 104
+
+Sacramento 124, Cleveland 80
+
+Memphis 108, Atlanta 101
+
+San Antonio 104, Minnesota 86
+
+Toronto 116, Milwaukee 94
+
+Houston 104, Boston 92
+
+New York 98, Phoenix 96 (OT)
+
+Washington 102, Chicago 88
+
+San Antonio 101, New Orleans 95
+
+Dallas 107, Orlando 88
+
+Utah 118, Denver 103
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489381&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489382&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489383&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489384&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489385&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489386&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489387&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489388&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489389&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489390&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489391&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489392&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489393&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489394&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489395&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489396&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489398&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489399&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489397&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489400&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489401&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489402&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489403&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489404&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489405&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489406&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489407&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489408&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489409&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489410&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489411&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489412&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489413&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489414&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489415&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489416&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489417&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489418&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489419&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489420&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489421&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489422&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489423&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489424&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489425&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489426&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489427&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489428&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489429&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489430&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489431&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489432&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489433&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489434&period=0
+
+Charlotte 108, New York 98
+
+Indiana 116, Sacramento 92
+
+Memphis 90, Oklahoma City 87
+
+Cleveland 120, LA Lakers 118
+
+Chicago 128, Orlando 125 (OT)
+
+Philadelphia 95, Charlotte 92
+
+Washington 114, Miami 97
+
+Boston 88, Toronto 83
+
+Memphis 82, Milwaukee 77
+
+Sacramento 111, Minnesota 108
+
+Houston 103, New Orleans 100
+
+San Antonio 109, Utah 105
+
+Phoenix 121, LA Lakers 114
+
+Portland 108, Cleveland 96
+
+Denver 123, Golden State 116
+
+LA Clippers 129, Dallas 127
+
+Brooklyn 127, Atlanta 110
+
+Indiana 117, New York 89
+
+Oklahoma City 104, Houston 92
+
+LA Clippers 109, New York 95
+
+Charlotte 111, Orlando 101
+
+Miami 101, Philadelphia 86
+
+Toronto 94, Minnesota 89
+
+Washington 96, Chicago 93
+
+LA Lakers 107, Boston 104
+
+Utah 110, Detroit 89
+
+Memphis 91, Sacramento 90
+
+Portland 109, San Antonio 100
+
+Cleveland 117, Denver 109
+
+Dallas 110, Phoenix 107
+
+Oklahoma City 127, Golden State 121
+
+Indiana 106, LA Clippers 92
+
+Detroit 104, Washington 98
+
+Miami 104, Charlotte 96 (OT)
+
+Chicago 103, Philadelphia 78
+
+Houston 114, Milwaukee 104
+
+Minnesota 98, Utah 72
+
+Golden State 97, New Orleans 87
+
+Portland 127, Dallas 111
+
+LA Lakers 112, Toronto 106
+
+Orlando 93, Boston 91
+
+Oklahoma City 108, Sacramento 93
+
+San Antonio 110, Milwaukee 82
+
+Phoenix 117, Denver 103
+
+Dallas 102, Cleveland 97
+
+LA Clippers 112, Detroit 103
+
+Charlotte 100, Toronto 95
+
+Washington 107, Philadelphia 99
+
+Brooklyn 103, New York 80
+
+New Orleans 95, Memphis 92
+
+Atlanta 121, Miami 114
+
+Chicago 102, LA Lakers 100 (OT)
+
+Houston 126, Portland 113
+
+Indiana 102, Golden State 94
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489435&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489436&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489437&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489438&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489439&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489440&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489441&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489442&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489443&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489444&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489445&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489446&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489447&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489448&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489449&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489450&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489452&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489451&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489453&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489454&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489455&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489456&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489457&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489458&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489459&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489460&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489461&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489462&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489463&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489464&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489465&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489467&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489468&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489466&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489469&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489470&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489471&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489472&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489473&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489474&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489475&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489476&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489477&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489478&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489479&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489480&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489481&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489482&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489483&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489484&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489485&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489486&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489487&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489488&period=0
+
+Brooklyn 101, Orlando 90
+
+Miami 93, Boston 86
+
+Sacramento 114, New Orleans 97
+
+Oklahoma City 105, Portland 97
+
+Minnesota 112, Utah 97
+
+Charlotte 95, LA Clippers 91
+
+Chicago 98, Cleveland 87
+
+Atlanta 112, Orlando 109
+
+Toronto 93, Dallas 85
+
+Boston 113, Washington 111 (OT)
+
+Philadelphia 110, New York 106
+
+Houston 119, Sacramento 98
+
+Milwaukee 104, Detroit 101
+
+Oklahoma City 111, San Antonio 105
+
+Phoenix 124, Indiana 100
+
+Miami 109, LA Lakers 102
+
+Portland 110, Denver 105
+
+Orlando 114, LA Lakers 105
+
+Toronto 104, Philadelphia 95
+
+San Antonio 105, Atlanta 79
+
+Oklahoma City 101, Boston 83
+
+Brooklyn 107, Dallas 106
+
+Cleveland 93, Milwaukee 78
+
+New Orleans 103, Detroit 101
+
+New York 125, Charlotte 96
+
+LA Clippers 112, Chicago 95
+
+Memphis 88, Houston 87
+
+Washington 101, Phoenix 95
+
+Indiana 116, Sacramento 111 (OT)
+
+Minnesota 121, Golden State 120
+
+Chicago 89, Charlotte 87
+
+LA Clippers 126, Toronto 118
+
+Oklahoma City 103, Philadelphia 91
+
+Memphis 99, Houston 81
+
+Atlanta 112, Milwaukee 87
+
+Denver 109, Indiana 96
+
+Utah 104, Washington 101
+
+Portland 115, Minnesota 104
+
+Miami 113, San Antonio 101
+
+New York 110, LA Lakers 103
+
+New Orleans 100, Orlando 92
+
+Phoenix 99, Cleveland 90
+
+Brooklyn 85, Boston 79
+
+Dallas 116, Detroit 106
+
+Golden State 103, Portland 88
+
+Denver 125, Sacramento 117
+
+Phoenix 124, Philadelphia 113
+
+Toronto 104, Brooklyn 103
+
+Minnesota 95, Chicago 86
+
+LA Clippers 114, Milwaukee 86
+
+Oklahoma City 111, Atlanta 109
+
+Utah 106, Sacramento 99
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489489&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489490&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489491&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489492&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489493&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489494&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489495&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489496&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489497&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489498&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489499&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489500&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489501&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489503&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489502&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489504&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489505&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489506&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489507&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489508&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489509&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489510&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489511&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489512&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489513&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489514&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489515&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489516&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489517&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489518&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489519&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489520&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489521&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489522&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489523&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489524&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489525&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489526&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489527&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489528&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489529&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489530&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489531&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489532&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489533&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489534&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489535&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489536&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489537&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489538&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489539&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489540&period=0
+
+New Orleans 100, Cleveland 89
+
+Detroit 103, Orlando 87
+
+New York 114, Boston 88
+
+Houston 97, San Antonio 90
+
+Memphis 98, Portland 81
+
+Washington 88, Golden State 85
+
+Indiana 104, LA Lakers 92
+
+Oklahoma City 112, Miami 95
+
+Toronto 98, Orlando 83
+
+Philadelphia 95, Boston 94
+
+Phoenix 126, Milwaukee 117
+
+Minnesota 88, New Orleans 77
+
+Houston 117, Dallas 115
+
+Charlotte 101, Denver 98
+
+Chicago 96, San Antonio 86
+
+Memphis 99, Sacramento 89
+
+LA Clippers 110, Washington 103
+
+Detroit
+
+Atlanta
+
+Phoenix 102, Indiana 94
+
+New York 117, Cleveland 86
+
+Golden State 111, LA Clippers 92
+
+Orlando 113, Milwaukee 102
+
+Atlanta 125, Philadelphia 99
+
+Memphis 94, Minnesota 90
+
+Oklahoma City 120, Brooklyn 95
+
+Dallas 107, Sacramento 103
+
+Toronto 100, Denver 90
+
+Charlotte 110, LA Lakers 100
+
+Golden State 95, Utah 90
+
+Indiana 97, Brooklyn 96
+
+Washington 96, Oklahoma City 81
+
+Atlanta 120, Minnesota 113
+
+Detroit 113, Philadelphia 96
+
+Houston 106, Cleveland 92
+
+Memphis 99, Milwaukee 90
+
+New Orleans 88, Chicago 79
+
+San Antonio 95, Sacramento 93
+
+Miami 106, New York 91
+
+Phoenix 105, Charlotte 95
+
+Portland 106, Toronto 103
+
+LA Clippers 102, Utah 87
+
+Boston 96, Orlando 89
+
+Indiana 98, Orlando 79
+
+Washington 100, Portland 90
+
+Brooklyn 108, Philadelphia 102
+
+Miami 102, Detroit 96
+
+Milwaukee 101, New York 98
+
+San Antonio 102, New Orleans 95
+
+Oklahoma City 86, Memphis 77
+
+Dallas 124, Cleveland 107
+
+Denver 116, LA Clippers 115
+
+Toronto 94, Utah 79
+
+Sacramento 99, Chicago 70
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489541&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489542&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489543&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489544&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489545&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489546&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489547&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489548&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489549&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489551&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489552&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489553&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489554&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489555&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489556&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489557&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489558&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?id=400490093&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?id=400553070&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489559&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489560&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489561&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489562&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489563&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489564&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489565&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489566&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489567&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489568&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489569&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489570&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489571&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489572&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489573&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489574&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489575&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489576&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489577&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489578&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489579&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489580&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489581&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489582&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489583&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489584&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489585&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489586&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489587&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489588&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489589&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489590&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489591&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489592&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489593&period=0
+
+Indiana 89, Atlanta 85
+
+Minnesota 109, LA Lakers 99
+
+Chicago 101, Phoenix 92
+
+Charlotte 91, Golden State 75
+
+LA Lakers 119, Cleveland 108
+
+Boston 114, Philadelphia 108
+
+San Antonio 125, Washington 118 (OT)
+
+Orlando 112, Detroit 98
+
+Portland 94, New York 90
+
+Houston 122, Phoenix 108
+
+Dallas 110, Memphis 96
+
+New Orleans 105, Atlanta 100
+
+Oklahoma City 106, Minnesota 97
+
+Denver 110, Milwaukee 100
+
+Sacramento 109, Toronto 101
+
+Miami 116, LA Clippers 112
+
+Brooklyn 103, San Antonio 89
+
+Golden State 102, Chicago 87
+
+Indiana 118, Portland 113 (OT)
+
+Orlando 103, Oklahoma City 102
+
+LA Lakers 112, Philadelphia 98
+
+Cleveland 115, Washington 113
+
+Boston 99, Sacramento 89
+
+Detroit 111, Brooklyn 95
+
+New York 117, Denver 90
+
+Dallas 103, Utah 81
+
+New Orleans 98, Minnesota 91
+
+LA Clippers 118, Toronto 105
+
+San Antonio 104, Charlotte 100
+
+Memphis 79, Atlanta 76
+
+Detroit 126, Denver 109
+
+Portland 117, Minnesota 110
+
+Houston 101, Milwaukee 95
+
+Phoenix 122, Golden State 109
+
+Utah 94, Miami 89
+
+Oklahoma City 112, New York 100
+
+Chicago 92, LA Lakers 86
+
+Dallas 102, Boston 91
+
+Brooklyn 93, New Orleans 81
+
+Cleveland 91, Memphis 83 (OT)
+
+Orlando 93, Indiana 92
+
+Washington 93, Sacramento 84
+
+LA Clippers 123, Philadelphia 78
+
+Indiana 119, Denver 80
+
+Toronto 108, New Orleans 101
+
+Detroit 109, San Antonio 100
+
+Boston 102, Milwaukee 86
+
+Houston 107, Minnesota 89
+
+Golden State 123, Philadelphia 80
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489594&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489595&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489596&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489597&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489598&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489599&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489600&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489606&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489601&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489602&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489603&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489604&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489605&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489607&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489608&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489609&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489610&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489611&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489612&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489613&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489614&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489615&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489617&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489618&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489619&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489620&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489621&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489622&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489623&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489624&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489625&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489626&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489627&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489628&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489629&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489630&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489631&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489632&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489633&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489634&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489635&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489636&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489637&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489638&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489639&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489640&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489641&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489642&period=0
+
+Charlotte 114, Dallas 89
+
+Cleveland 109, Sacramento 99
+
+Chicago 100, Atlanta 85
+
+Memphis 92, Washington 89
+
+Miami 103, Phoenix 97
+
+Oklahoma City 98, Portland 95
+
+Utah 96, LA Lakers 79
+
+Dallas 81, Indiana 73
+
+Memphis 86, Orlando 81
+
+Toronto 104, Atlanta 83
+
+San Antonio 104, Boston 92
+
+Brooklyn 105, Charlotte 89
+
+Cleveland 93, Detroit 89
+
+Sacramento 106, New York 101 (OT)
+
+Houston 113, Washington 112
+
+New Orleans 102, Milwaukee 98
+
+Minnesota 117, Denver 90
+
+Utah 105, Philadelphia 100
+
+Miami 111, Golden State 110
+
+LA Clippers 122, Portland 117
+
+Chicago 92, Brooklyn 76
+
+Oklahoma City 107, LA Lakers 103
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489643&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489644&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489645&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489646&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489647&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489648&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489649&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489650&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489651&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489652&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489653&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489654&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489655&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489657&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489658&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489659&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489660&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489661&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489662&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489663&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489664&period=0
+
+Indiana 108, Atlanta 98
+
+Cleveland 114, Philadelphia 85
+
+Toronto 103, Washington 93
+
+Charlotte 108, Detroit 96
+
+Memphis 98, New York 93
+
+Milwaukee 104, Orlando 100
+
+Miami 117, Dallas 106
+
+Phoenix 112, Denver 107 (OT)
+
+San Antonio 113, LA Clippers 103
+
+Charlotte 116, Detroit 98
+
+Cleveland 101, Orlando 93
+
+Chicago 94, Toronto 92
+
+Washington 114, Atlanta 97
+
+Minnesota 104, Indiana 91
+
+New York 98, New Orleans 91
+
+Phoenix 100, Boston 94
+
+Brooklyn 105, Utah 99
+
+San Antonio 111, Portland 109
+
+Golden State 101, Sacramento 92
+
+Houston 134, LA Lakers 108
+
+Denver 101, Milwaukee 90
+
+Miami 103, Oklahoma City 81
+
+Golden State 102, Houston 99 (OT)
+
+Charlotte 90, New Orleans 87
+
+Orlando 129, New York 121 (OT)
+
+Dallas 124, Philadelphia 112
+
+Toronto 98, Cleveland 91
+
+Detroit 115, Atlanta 107
+
+Chicago 117, Denver 89
+
+Memphis 102, LA Clippers 96
+
+Phoenix 106, San Antonio 85
+
+Portland 102, Utah 94
+
+LA Lakers 101, Boston 92
+
+Charlotte 92, Memphis 89
+
+Washington 94, New Orleans 93
+
+Atlanta 107, New York 98
+
+Dallas 113, Detroit 102
+
+Indiana 110, Milwaukee 100
+
+Minnesota 121, Utah 104
+
+Sacramento 105, Boston 98
+
+Golden State 93, Brooklyn 86
+
+LA Clippers 125, Oklahoma City 117
+
+Miami 93, Chicago 79
+
+Washington 96, Cleveland 83
+
+Toronto 105, Orlando 90
+
+Sacramento 109, Denver 95
+
+Houston 115, Phoenix 112
+
+Brooklyn 108, LA Lakers 102
+
+Portland 108, Minnesota 97
+
+Milwaukee 130, Philadelphia 110
+
+Golden State 104, Detroit 96
+
+Dallas 110, New York 108
+
+LA Clippers 123, New Orleans 110
+
+Utah 110, Boston 98
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489665&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489666&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489667&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489668&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489669&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489670&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489671&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489672&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489673&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489674&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489675&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489676&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489677&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489678&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489679&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489680&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489681&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489682&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489683&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489684&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489685&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489686&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489687&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489688&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489689&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489690&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489691&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489692&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489693&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489694&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489695&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489696&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489697&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489698&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489699&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489700&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489701&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489702&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489703&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489704&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489705&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489706&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489707&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489708&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489709&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489710&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489711&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489712&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489713&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489714&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489715&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489716&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489717&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489718&period=0
+
+Toronto 99, Cleveland 93
+
+Indiana 118, LA Lakers 98
+
+Washington 115, Orlando 106
+
+Chicago 107, Atlanta 103
+
+Portland 100, Denver 95
+
+Minnesota 110, Phoenix 101
+
+Houston 129, Sacramento 103
+
+Orlando 101, Philadelphia 90
+
+Boston 115, Atlanta 104
+
+Chicago 103, Golden State 83
+
+Dallas 108, New Orleans 89
+
+Memphis 108, LA Lakers 103
+
+Cleveland 114, Oklahoma City 104
+
+San Antonio 120, Detroit 110
+
+Utah 109, Phoenix 86
+
+Portland 124, Brooklyn 80
+
+LA Clippers 101, Houston 93
+
+Indiana 101, Milwaukee 96
+
+Washington 134, Toronto 129 (OT)
+
+Miami 108, New York 82
+
+Brooklyn 112, Denver 89
+
+Cleveland 99, Utah 79
+
+Oklahoma City 113, Memphis 107
+
+Golden State 126, New York 103
+
+Chicago 100, Dallas 91
+
+San Antonio 92, Charlotte 82
+
+LA Lakers 126, Sacramento 122
+
+Phoenix 116, New Orleans 104
+
+Miami 112, Orlando 98
+
+Washington 122, Philadelphia 103
+
+Houston 118, Detroit 110
+
+Indiana 102, Boston 97
+
+Brooklyn 107, Milwaukee 98
+
+Memphis 110, Cleveland 96
+
+Portland 102, Denver 96
+
+Minnesota 108, Sacramento 97
+
+LA Clippers 108, New Orleans 76
+
+Chicago 109, New York 90
+
+Toronto 104, Golden State 98
+
+Indiana 94, Utah 91
+
+Orlando 92, Philadelphia 81
+
+Oklahoma City 116, Charlotte 99
+
+San Antonio 112, Dallas 106
+
+Phoenix 129, Atlanta 120
+
+Memphis 110, Washington 104
+
+Brooklyn 96, Chicago 80
+
+Detroit 96, New York 85
+
+Miami 124, Charlotte 107
+
+Milwaukee 114, Utah 88
+
+Minnesota 132, Denver 128
+
+LA Lakers 107, Portland 106
+
+Sacramento 96, New Orleans 89
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489719&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489720&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489721&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489722&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489723&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489724&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489725&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489726&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489727&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489728&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489729&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489730&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489731&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489732&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489733&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489734&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489735&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489736&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489737&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489738&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489739&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489740&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489741&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489742&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489743&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489744&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489745&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489746&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489747&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489748&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489749&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489750&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489751&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489752&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489753&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489754&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489755&period=0
+
+LOCATION ERROR: Tyreke Evans misses 57-foot three point jumper
+
+
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489756&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489757&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489758&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489759&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489760&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489761&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489762&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489763&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489764&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489765&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489766&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489767&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489768&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489769&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489770&period=0
+
+San Antonio 122, Cleveland 101
+
+Golden State 98, Indiana 96
+
+Houston 106, Miami 103
+
+Oklahoma City 125, Philadelphia 92
+
+LA Clippers 104, Phoenix 96
+
+New Orleans 132, LA Lakers 125
+
+Charlotte 109, Indiana 87
+
+Houston 101, Orlando 89
+
+Washington 104, Utah 91
+
+Golden State 108, Boston 88
+
+Brooklyn 103, Memphis 94
+
+Chicago 105, Detroit 94
+
+Sacramento 116, Milwaukee 102
+
+New York 118, Minnesota 106
+
+Denver 115, Dallas 110
+
+Portland 102, Atlanta 78
+
+San Antonio 111, Miami 87
+
+Phoenix 128, Oklahoma City 122
+
+LA Clippers 142, LA Lakers 94
+
+Memphis 85, Chicago 77
+
+Charlotte 101, Cleveland 92
+
+Toronto 99, Sacramento 87
+
+Boston 91, Brooklyn 84
+
+New York 108, Utah 81
+
+Minnesota 114, Detroit 101
+
+New Orleans 112, Milwaukee 104
+
+Dallas 103, Portland 98
+
+Denver 134, LA Lakers 126
+
+Houston 112, Indiana 86
+
+Golden State 111, Atlanta 97
+
+New York 107, Cleveland 97
+
+Utah 104, Philadelphia 92
+
+Memphis 111, Charlotte 89
+
+San Antonio 121, Orlando 112
+
+Washington 114, Milwaukee 107
+
+LA Clippers 109, Atlanta 108
+
+Chicago 95, Miami 88 (OT)
+
+LA Lakers 114, Oklahoma City 110
+
+New Orleans 111, Denver 107 (OT)
+
+Boston 118, Detroit 111
+
+Brooklyn 104, Sacramento 89
+
+Houston 118, Portland 113 (OT)
+
+Toronto 111, Minnesota 104
+
+Dallas 105, Indiana 94
+
+Golden State 113, Phoenix 107
+
+Charlotte 105, Denver 98
+
+Brooklyn 101, Toronto 97
+
+Miami 99, Washington 90
+
+New York 123, Philadelphia 110
+
+Milwaukee 105, Orlando 98
+
+Atlanta 112, Utah 110
+
+LA Clippers 112, Phoenix 105
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489771&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489772&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489773&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489774&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489775&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489776&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489777&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489778&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489779&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489780&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489781&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489782&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489784&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489785&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489786&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489787&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489788&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489789&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489790&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489791&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489792&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489793&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489794&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489795&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489796&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489797&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489798&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489799&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489800&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489801&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489802&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489803&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489805&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489804&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489806&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489807&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489808&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489809&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489810&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489811&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489812&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489813&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489814&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489815&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489816&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489817&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489818&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489819&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489820&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489821&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489822&period=0
+
+Indiana 94, Boston 83
+
+Detroit 99, Sacramento 89
+
+San Antonio 104, Chicago 96
+
+Memphis 109, Portland 99
+
+Minnesota 112, Milwaukee 101
+
+Oklahoma City 106, Houston 98
+
+Golden State 108, Dallas 85
+
+Brooklyn 96, Miami 95
+
+Denver 120, Orlando 112
+
+Sacramento 115, Philadelphia 98
+
+Toronto 101, Detroit 87
+
+Charlotte 98, Washington 85
+
+New York 116, Boston 92
+
+Memphis 90, New Orleans 88
+
+Dallas 108, Utah 101
+
+San Antonio 103, Portland 90
+
+Cleveland 110, Phoenix 101
+
+LA Clippers 111, Golden State 98
+
+Chicago 111, Houston 87
+
+Atlanta 102, Milwaukee 97
+
+Oklahoma City 131, LA Lakers 102
+
+Charlotte 105, Minnesota 93
+
+Washington 105, Orlando 101 (OT)
+
+Indiana 101, Philadelphia 94
+
+Toronto 99, Memphis 86
+
+Phoenix 87, Boston 80
+
+Denver 111, Miami 107
+
+Portland 111, New Orleans 103
+
+San Antonio 119, LA Lakers 85
+
+LA Clippers 96, Utah 87
+
+Cleveland 103, Golden State 94
+
+New York 115, Milwaukee 94
+
+Washington 101, Brooklyn 94
+
+Atlanta 97, Denver 92
+
+Indiana 112, Detroit 104 (OT)
+
+Memphis 103, Philadelphia 77
+
+Chicago 94, Sacramento 87
+
+Charlotte 101, Milwaukee 92
+
+Phoenix 121, Toronto 113
+
+Miami 113, Houston 104
+
+New Orleans 121, Boston 120 (OT)
+
+Minnesota 104, Sacramento 102
+
+Dallas 109, Oklahoma City 86
+
+San Antonio 122, Utah 104
+
+Golden State 113, Portland 112
+
+LA Clippers 102, Cleveland 80
+
+Atlanta 97, Charlotte 83
+
+Indiana 99, Philadelphia 90
+
+Brooklyn 108, Phoenix 95
+
+Oklahoma City 97, Chicago 85
+
+Houston 124, Utah 86
+
+Dallas 94, Boston 89
+
+Denver 110, LA Clippers 100
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489823&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489824&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489825&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489826&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489827&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489828&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489829&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489830&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489831&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489832&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489833&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489834&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489835&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489836&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489837&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489838&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489839&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489840&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489841&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489842&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489843&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489844&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489845&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489846&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489847&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489848&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489849&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489850&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489851&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489852&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489853&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489854&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489855&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489856&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489857&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489858&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489859&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489860&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489861&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489862&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489863&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489864&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489865&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489866&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489867&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489868&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489869&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489870&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489871&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489872&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489873&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489874&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489875&period=0
+
+Miami 100, Cleveland 96
+
+Atlanta 118, Toronto 113 (OT)
+
+Portland 120, Milwaukee 115 (OT)
+
+Sacramento 117, Washington 111 (OT)
+
+Golden State 103, Orlando 89
+
+Chicago 102, Philadelphia 94
+
+Boston 101, Miami 96
+
+Brooklyn 104, Charlotte 99
+
+Memphis 96, Utah 86
+
+Toronto 107, New Orleans 100
+
+New York 92, Indiana 86
+
+Minnesota 123, Dallas 122 (OT)
+
+Denver 118, Detroit 109
+
+Phoenix 109, Orlando 93
+
+San Antonio 125, LA Lakers 109
+
+Oklahoma City 102, Cleveland 95
+
+Houston 129, Minnesota 106
+
+Portland 116, Washington 103
+
+Golden State 115, Milwaukee 110
+
+Indiana 91, Chicago 79
+
+New York 93, Philadelphia 92
+
+Oklahoma City 119, Toronto 118 (OT)
+
+New Orleans 111, Atlanta 105
+
+Brooklyn 114, Boston 98
+
+Miami 91, Memphis 86
+
+Dallas 122, Denver 106
+
+Phoenix 98, Detroit 92
+
+San Antonio 99, Sacramento 79
+
+Washington 117, LA Lakers 107
+
+Charlotte 124, Portland 94
+
+Houston 118, Cleveland 111
+
+Chicago 91, Philadelphia 81
+
+Memphis 82, Indiana 71
+
+New Orleans 105, Miami 95
+
+Utah 89, Orlando 88
+
+San Antonio 99, Golden State 90
+
+LA Clippers 112, Detroit 103
+
+Toronto 96, Atlanta 86
+
+Phoenix 127, Minnesota 120
+
+Denver 105, Washington 102
+
+Sacramento 124, Milwaukee 107
+
+Brooklyn 107, Dallas 104 (OT)
+
+Cleveland 106, New York 100
+
+LA Lakers 103, Orlando 94
+
+Houston 100, Charlotte 89
+
+Phoenix 102, Atlanta 95
+
+Miami 93, Portland 91
+
+Chicago 89, Indiana 77
+
+Memphis 109, Minnesota 92
+
+New Orleans 109, Brooklyn 104 (OT)
+
+Oklahoma City 117, Denver 96
+
+San Antonio 113, Philadelphia 91
+
+Detroit 114, Utah 94
+
+LA Clippers 106, Milwaukee 98
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489876&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489877&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489878&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489879&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489880&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489881&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489882&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489883&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489884&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489885&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489886&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489887&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489888&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489889&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489890&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489891&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489892&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489893&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489894&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489895&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489896&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489897&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489898&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489899&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489900&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489901&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489902&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489903&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489904&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489905&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489906&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489907&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489908&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489909&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489910&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489911&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489912&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489913&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489914&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489915&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489916&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489917&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489918&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489919&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489920&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489921&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489922&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489923&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489924&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489925&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489926&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489927&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489928&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489929&period=0
+
+Cleveland 102, Toronto 100
+
+Orlando 95, Portland 85
+
+Dallas 128, Oklahoma City 119 (OT)
+
+LA Lakers 127, New York 96
+
+Charlotte 116, Brooklyn 111 (OT)
+
+Phoenix 99, Washington 93
+
+Toronto 99, Boston 90
+
+Cleveland 97, Detroit 96
+
+Minnesota 107, Atlanta 83
+
+New Orleans 98, LA Clippers 96
+
+Indiana 84, Miami 83
+
+San Antonio 108, Denver 103
+
+New York 107, Sacramento 99
+
+Memphis 91, Utah 87
+
+Portland 100, Atlanta 85
+
+Houston 120, Philadelphia 98
+
+Milwaukee 108, LA Lakers 105
+
+LA Clippers 109, Dallas 103
+
+Orlando 110, Charlotte 105 (OT)
+
+Toronto 105, Boston 103
+
+Washington 91, Indiana 78
+
+Brooklyn 108, Cleveland 97
+
+Miami 110, Detroit 78
+
+Portland 91, Chicago 74
+
+Minnesota 143, LA Lakers 107
+
+New Orleans 102, Utah 95
+
+Oklahoma City 94, Sacramento 81
+
+San Antonio 133, Denver 102
+
+Phoenix 112, New York 88
+
+Golden State 100, Memphis 93
+
+Philadelphia 123, Detroit 98
+
+LA Clippers 118, Houston 107
+
+Washington 101, Atlanta 97
+
+Dallas 103, Sacramento 100
+
+Miami 88, Milwaukee 67
+
+San Antonio 96, New Orleans 80
+
+Oklahoma City 116, Utah 96
+
+Cleveland 90, Indiana 76
+
+Brooklyn 114, Minnesota 99
+
+Toronto 98, Orlando 93
+
+Chicago 107, Boston 102
+
+New York 89, Golden State 84
+
+Portland 105, Memphis 98
+
+LA Lakers 115, Phoenix 99
+
+Charlotte 100, Washington 94
+
+San Antonio 103, Indiana 77
+
+Atlanta 103, Philadelphia 95
+
+Detroit 116, Milwaukee 111
+
+Miami 93, Toronto 83
+
+Chicago 94, Boston 80
+
+LA Clippers 114, Minnesota 104
+
+Sacramento 102, New Orleans 97
+
+Memphis 94, Denver 92
+
+New York 92, Utah 83
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489930&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489931&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489932&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489933&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489934&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489935&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489936&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489937&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489938&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489939&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489940&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489941&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489942&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489943&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489944&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489945&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489946&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489947&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489948&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489949&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489950&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489951&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489952&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489953&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489954&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489955&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489956&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489957&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489958&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489959&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489960&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489961&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489962&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489963&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489964&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489965&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489966&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489967&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489968&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489969&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489970&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489971&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489972&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489973&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489974&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489975&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489976&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489977&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489978&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489979&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489980&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489981&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489982&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489983&period=0
+
+Brooklyn 105, Houston 96
+
+Golden State 122, Dallas 120 (OT)
+
+Portland 124, LA Lakers 112
+
+Indiana 101, Detroit 94
+
+New York 110, Brooklyn 81
+
+Cleveland 119, Orlando 98
+
+Charlotte 123, Philadelphia 93
+
+Toronto 107, Houston 103
+
+Washington 118, Boston 92
+
+Chicago 105, Atlanta 92
+
+Miami 96, Milwaukee 77
+
+Minnesota 102, Memphis 88
+
+San Antonio 111, Golden State 90
+
+Denver 137, New Orleans 107
+
+LA Clippers 112, Phoenix 108
+
+Sacramento 107, LA Lakers 102
+
+Oklahoma City 106, San Antonio 94
+
+Dallas 113, LA Clippers 107
+
+Memphis 100, Denver 92
+
+Charlotte 91, Orlando 80
+
+Toronto 102, Indiana 94
+
+Atlanta 117, Cleveland 98
+
+Philadelphia 111, Boston 102
+
+Brooklyn 116, Detroit 104
+
+Minnesota 122, Miami 121 (OT)
+
+Washington 90, New York 89
+
+Chicago 102, Milwaukee 90
+
+Utah 100, New Orleans 96
+
+Houston 111, Oklahoma City 107
+
+Phoenix 109, Portland 93
+
+Golden State 102, Sacramento 69
+
+Dallas 107, LA Lakers 95
+
+Orlando 100, Minnesota 92
+
+Chicago 96, Washington 78
+
+Charlotte 96, Cleveland 94 (OT)
+
+Detroit 115, Boston 111
+
+Brooklyn 105, Philadelphia 101
+
+Toronto 102, Milwaukee 98
+
+Miami 102, New York 91
+
+LA Clippers 120, LA Lakers 97
+
+Dallas 93, Sacramento 91
+
+Atlanta 107, Indiana 88
+
+Houston 130, Denver 125 (OT)
+
+San Antonio 112, Memphis 92
+
+Golden State 130, Utah 102
+
+Phoenix 122, Oklahoma City 115
+
+Portland 100, New Orleans 94
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489984&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489985&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489986&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489987&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489988&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489989&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489990&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489991&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489992&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489993&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489994&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489995&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489996&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489997&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489998&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400489999&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490000&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490001&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490002&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490003&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490004&period=0
+
+LOCATION ERROR: Nando de Colo misses 55-foot three point running jumper
+
+
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490005&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490006&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490007&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490008&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490009&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490010&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490011&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490012&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490013&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490014&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490015&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490016&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490017&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490018&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490019&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490020&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490021&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490022&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490023&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490024&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490025&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490026&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490027&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490028&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490029&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490030&period=0
+
+Detroit 102, Atlanta 95
+
+Brooklyn 88, Miami 87
+
+Minnesota 110, San Antonio 91
+
+Dallas 95, Utah 83
+
+Oklahoma City 107, Sacramento 92
+
+Houston 145, LA Lakers 130
+
+Cleveland 122, Detroit 100
+
+Orlando 115, Brooklyn 111
+
+Toronto 125, Philadelphia 114
+
+Charlotte 94, Washington 88 (OT)
+
+Atlanta 105, Boston 97
+
+Memphis 107, Miami 102
+
+Indiana 104, Milwaukee 102
+
+Chicago 102, Minnesota 87
+
+Phoenix 94, New Orleans 88
+
+Denver 123, Houston 116
+
+Portland 100, Sacramento 99
+
+Oklahoma City 107, LA Clippers 101
+
+San Antonio 109, Dallas 100
+
+Denver 100, Golden State 99
+
+Washington 96, Orlando 86
+
+New York 108, Toronto 100
+
+Boston 106, Charlotte 103
+
+Atlanta 93, Brooklyn 88
+
+Miami 98, Indiana 86
+
+Chicago 106, Detroit 98
+
+Memphis 117, Philadelphia 95
+
+Minnesota 112, Houston 110
+
+Oklahoma City 116, New Orleans 94
+
+Milwaukee 119, Cleveland 116
+
+San Antonio 112, Phoenix 104
+
+Portland 111, Utah 99
+
+Golden State 112, LA Lakers 95
+
+LA Clippers 117, Sacramento 101
+
+Charlotte 111, Philadelphia 105
+
+Washington 104, Milwaukee 91
+
+Atlanta 98, Miami 85
+
+Boston 111, Cleveland 99
+
+Houston 111, New Orleans 104
+
+Dallas 101, Phoenix 98
+
+Denver 101, Utah 94
+
+Indiana 102, Oklahoma City 97
+
+Toronto 116, Detroit 107
+
+Brooklyn 97, Orlando 88
+
+New York 100, Chicago 89
+
+Portland 119, Golden State 117 (OT)
+
+Sacramento 106, Minnesota 103
+
+Memphis 102, LA Lakers 90
+
+Philadelphia 113, Boston 108
+
+Toronto 110, Milwaukee 100
+
+Washington 114, Miami 93
+
+Charlotte 95, Atlanta 93
+
+Chicago 108, Orlando 95
+
+Houston 104, San Antonio 98
+
+New Orleans 101, Oklahoma City 89
+
+LA Lakers 119, Utah 104
+
+Memphis 97, Phoenix 91
+
+Golden State 130, Minnesota 120
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400532894&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490031&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400528655&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490032&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490033&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490034&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490035&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490036&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490037&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490038&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490039&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490040&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490041&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490042&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490043&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490044&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490045&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490046&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490047&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490048&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490049&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490050&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490051&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490052&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490053&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490054&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490055&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490056&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490057&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490058&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490059&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490060&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490061&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490062&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490063&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490064&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490065&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490066&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490067&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490068&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490069&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490073&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490071&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490072&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490070&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490074&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490075&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490076&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490077&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490078&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490079&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490080&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490081&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490082&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490083&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490084&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490085&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490086&period=0
+
+New York 109, Brooklyn 98
+
+LA Clippers 117, Denver 105
+
+Charlotte 91, Chicago 86 (OT)
+
+Indiana 101, Orlando 86
+
+Memphis 106, Dallas 105 (OT)
+
+Atlanta 111, Milwaukee 103
+
+Utah 136, Minnesota 130 (OT)
+
+New Orleans 105, Houston 100
+
+Oklahoma City 112, Detroit 111
+
+LA Lakers 113, San Antonio 100
+
+Washington 118, Boston 102
+
+Cleveland 114, Brooklyn 85
+
+Philadelphia 100, Miami 87
+
+New York 95, Toronto 92
+
+Portland 110, LA Clippers 104
+
+Phoenix 104, Sacramento 99
+
+Golden State 116, Denver 112
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490087&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490088&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490096&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490100&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490089&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490090&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490091&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490092&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490093&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490094&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490095&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490097&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490098&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490099&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490101&period=0
+
+Visited URL: http://espn.go.com/nba/playbyplay?gameId=400490102&period=0
+
+Offensive rebounds off shots from 1 foot: 31
+
+Defensive rebounds off shots from 1 foot: 67
+
+
+Offensive rebounds off shots from 2 feet: 116
+
+Defensive rebounds off shots from 2 feet: 191
+
+
+Offensive rebounds off shots from 3 feet: 512
+
+Defensive rebounds off shots from 3 feet: 843
+
+
+Offensive rebounds off shots from 4 feet: 793
+
+Defensive rebounds off shots from 4 feet: 1453
+
+
+Offensive rebounds off shots from 5 feet: 812
+
+Defensive rebounds off shots from 5 feet: 1650
+
+
+Offensive rebounds off shots from 6 feet: 748
+
+Defensive rebounds off shots from 6 feet: 1612
+
+
+Offensive rebounds off shots from 7 feet: 667
+
+Defensive rebounds off shots from 7 feet: 1481
+
+
+Offensive rebounds off shots from 8 feet: 515
+
+Defensive rebounds off shots from 8 feet: 1291
+
+
+Offensive rebounds off shots from 9 feet: 449
+
+Defensive rebounds off shots from 9 feet: 1209
+
+
+Offensive rebounds off shots from 10 feet: 378
+
+Defensive rebounds off shots from 10 feet: 1123
+
+
+Offensive rebounds off shots from 11 feet: 370
+
+Defensive rebounds off shots from 11 feet: 1071
+
+
+Offensive rebounds off shots from 12 feet: 334
+
+Defensive rebounds off shots from 12 feet: 1103
+
+
+Offensive rebounds off shots from 13 feet: 373
+
+Defensive rebounds off shots from 13 feet: 1145
+
+
+Offensive rebounds off shots from 14 feet: 378
+
+Defensive rebounds off shots from 14 feet: 1355
+
+
+Offensive rebounds off shots from 15 feet: 484
+
+Defensive rebounds off shots from 15 feet: 1687
+
+
+Offensive rebounds off shots from 16 feet: 562
+
+Defensive rebounds off shots from 16 feet: 2241
+
+
+Offensive rebounds off shots from 17 feet: 716
+
+Defensive rebounds off shots from 17 feet: 2587
+
+
+Offensive rebounds off shots from 18 feet: 754
+
+Defensive rebounds off shots from 18 feet: 2852
+
+
+Offensive rebounds off shots from 19 feet: 757
+
+Defensive rebounds off shots from 19 feet: 3006
+
+
+Offensive rebounds off shots from 20 feet: 656
+
+Defensive rebounds off shots from 20 feet: 2519
+
+
+Offensive rebounds off shots from 21 feet: 526
+
+Defensive rebounds off shots from 21 feet: 1887
+
+
+Offensive rebounds off shots from 22 feet: 366
+
+Defensive rebounds off shots from 22 feet: 1220
+
+
+Offensive rebounds off shots from 23 feet: 705
+
+Defensive rebounds off shots from 23 feet: 2198
+
+
+Offensive rebounds off shots from 24 feet: 1195
+
+Defensive rebounds off shots from 24 feet: 3656
+
+
+Offensive rebounds off shots from 25 feet: 2538
+
+Defensive rebounds off shots from 25 feet: 8156
+
+
+Offensive rebounds off shots from 26 feet: 1608
+
+Defensive rebounds off shots from 26 feet: 5043
+
+
+Offensive rebounds off shots from 27 feet: 544
+
+Defensive rebounds off shots from 27 feet: 1700
+
+
+Offensive rebounds off shots from 28 feet: 169
+
+Defensive rebounds off shots from 28 feet: 475
+
+
+Offensive rebounds off shots from 29 feet: 49
+
+Defensive rebounds off shots from 29 feet: 144
+
+
+Offensive rebounds off shots from 30 feet: 26
+
+Defensive rebounds off shots from 30 feet: 55
+
+
+Offensive rebounds off shots from 31 feet: 7
+
+Defensive rebounds off shots from 31 feet: 21
+
+
+Offensive rebounds off shots from 32 feet: 5
+
+Defensive rebounds off shots from 32 feet: 13
+
+
+Offensive rebounds off shots from 33 feet: 4
+
+Defensive rebounds off shots from 33 feet: 3
+
+
+Offensive rebounds off shots from 34 feet: 3
+
+Defensive rebounds off shots from 34 feet: 2
+
+
+Offensive rebounds off shots from 35 feet: 1
+
+Defensive rebounds off shots from 35 feet: 0
+
+
+Offensive rebounds off shots from 36 feet: 4
+
+Defensive rebounds off shots from 36 feet: 1
+
+
+Offensive rebounds off shots from 37 feet: 0
+
+Defensive rebounds off shots from 37 feet: 2
+
+
+Offensive rebounds off shots from 38 feet: 3
+
+Defensive rebounds off shots from 38 feet: 1
+
+
+Offensive rebounds off shots from 39 feet: 4
+
+Defensive rebounds off shots from 39 feet: 0
+
+
+Offensive rebounds off shots from 40 feet: 4
+
+Defensive rebounds off shots from 40 feet: 0
+
+
+Offensive rebounds off shots from 41 feet: 1
+
+Defensive rebounds off shots from 41 feet: 1
+
+
+Offensive rebounds off shots from 42 feet: 1
+
+Defensive rebounds off shots from 42 feet: 1
+
+
+Offensive rebounds off shots from 46 feet: 2
+
+Defensive rebounds off shots from 46 feet: 0
+
+
+Offensive rebounds off shots from 48 feet: 1
+
+Defensive rebounds off shots from 48 feet: 0
+
+
+Offensive rebound error total: 2
+
+Defensive rebound error total: 0
+
+
+Offensive rebounds off unclassified shots: 3530
+
+Defensive rebounds off unclassified shots: 9632
+
+
+Offensive rebounds off free throws: 1388
+
+Defensive rebounds off free throws: 5930
+
+
+Offensive rebounds off dunks: 42
+
+Defensive rebounds off dunks: 152
+
+
+Offensive rebounds off tip shots: 1482
+
+Defensive rebounds off tip shots: 611
+
+
+Offensive rebounds off layups: 5865
+
+Defensive rebounds off layups: 9777
+
+
+Offensive Sum: 30480
+
+Defensive Sum: 81167
+
+Total Sum: 111647
+
