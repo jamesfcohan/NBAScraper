@@ -10,5 +10,6 @@ public final class CONSTANTS {
 	
 	public static final int UNCLASSIFIED = 145;
 	public static final int ERROR = 144;
+	public static final int MISC = 142;
 	
 }

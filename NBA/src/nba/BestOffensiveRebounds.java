@@ -18,11 +18,11 @@ public class BestOffensiveRebounds {
 	private boolean _finishedParsing;
 	private PrintWriter _writer;
 	
-	JAMES COHAN
-	
 	// variables for testing that all games are visited
 	private int _playByPlayCounter;
 	private int _boxScoreCounter;
+	
+	private ArrayList<String> _miscShotChecker;
 		
 	public BestOffensiveRebounds() {
 		try {
@@ -44,13 +44,19 @@ public class BestOffensiveRebounds {
 		_finishedParsing = false;
 		
 		/*
-		 * Counters are for testing purposes to make sure all games are visited.
+		 * Variables are for testing purposes. 
+		 * 
+		 * Counters are to make sure all games are visited.
 		 * After testing it appears 5 box scores of the 1230 regular season games are missing play-by-plays.
 		 * There are 4 extra box score links from two games postponed (each team name is a link).
 		 * Unclear why final box score count is 1233 instead of 1234. Possible that one box score is missing hyperlink.
+		 * 
+		 * Misc shot checker holds text of all shots that fall through every other classification in classifyShot method.
+		 * Hypothesis is that all will contain "jumpers" and "bank shots" and other two point shots.
 		 */
 		_playByPlayCounter = 0;
 		_boxScoreCounter = 0;
+		_miscShotChecker = new ArrayList<String>();
 		
 		// espn.com NBA schedule is shown one week at a time. On each iteration new date is pasted to end of hyperlink to advance to next page
 		MutableDateTime date = new MutableDateTime();
@@ -181,7 +187,7 @@ public class BestOffensiveRebounds {
 			
 			// Test to find the box scores that are missing play-by-plays
 			if (playByPlayCell.isEmpty()) {
-				_writer.println("NO PLAY-BY-PLAY: " + url + "\n\n\n");
+				_writer.println("ERROR NO PLAY-BY-PLAY: " + url + "\n\n\n");
 			}
 		
 		}
@@ -235,7 +241,7 @@ public class BestOffensiveRebounds {
 								/*
 								 * ERROR CHECK
 								 */
-								_writer.println("Offensive Rebound Number: " + offensiveReboundNum + "\n");
+								_writer.println("\nOffensive Rebound Number: " + offensiveReboundNum);
 								_writer.println(text);
 								offensiveReboundNum++;
 								
@@ -308,98 +314,132 @@ public class BestOffensiveRebounds {
 			}
 	    }
 		
-		// some shots in espn.com's play-by-play are missing shot distance or any useful classifications
-		return CONSTANTS.UNCLASSIFIED;
+		// some shots in espn.com's play-by-play are known only as "jumper" or "bank shot" or "two point shot"
+		return CONSTANTS.MISC;
 	}
 	
 	
 	// returns how many points are scored off an offensive rebound
 	public int pointsOffRebound(Element reboundRow) {
+		
+		int pointsScored = 0;
+		boolean calculatedPointsScored = false;
+		
 		// determine who got rebound
 		Possession reboundPossession = this.getPossession(reboundRow);
 		Possession currentPossession = null;
 		Element currentRow = reboundRow;
 		
-		while (true) {
+		while (calculatedPointsScored == false) {
+				// get text and possession for next row in play-by-play
 				currentRow = currentRow.nextElementSibling();
 				currentPossession = this.getPossession(currentRow);
 				String rowText = currentRow.text();
 				
-				_writer.println("Current Possession: " + currentPossession + "\n");
-				_writer.println("Rebound Possession: " + reboundPossession + "\n");
+				_writer.println("Rebound Row: " + reboundRow.text());
+				_writer.println("Current Row: " + currentRow.text());
+				_writer.println("Rebound Possession: " + reboundPossession);
+				_writer.println("Current Possession: " + currentPossession);
 				
-				// if quarter over, return 0 points scored
-				if (rowText.contains("end of quarter")) return 0;
+				// if quarter over, text says "End of the nth Quarter." Since quarter over, no points scored off rebound
+				if (rowText.contains("End of the")) {
+					pointsScored = 0;
+					calculatedPointsScored = true;
+				}
 				
-				// if in next row the team that got the offensive rebound does something
-				if (currentPossession == reboundPossession) {
+				// if there is a substitution, timeout or jump ball continue to next line in play-by-play
+				else if (rowText.contains("enters the game") || rowText.contains("timeout") || rowText.contains("vs")){
+					continue;
+				}
+				
+				// if after team gets offensive rebound, they are the next team to appear in play-by-play
+				else if (currentPossession == reboundPossession) {
 					// if a team makes the shot, return how many points they got
 					if (rowText.contains("makes")) {
+						// classify shot. must pass in exact cell and not all cells because gametime numbers neighboring play-by-play cells will mess up shot location 
 						int shot = 0;
-						int points = 0;
-						
 						if (currentPossession == Possession.HOME) shot = this.classifyShot(currentRow.select("td:nth-child(4)"));
 						else if (currentPossession == Possession.AWAY) shot = this.classifyShot(currentRow.select("td:nth-child(2)"));
-						/*
-						 * ERROR CHECK
-						 */
-						else _writer.println("Error determining shot: " + rowText + "\n");
+						// ERROR CHECK
+						else _writer.println("ERROR classifying shot: " + rowText + "\n");
 					
-						// if he makes an and one on the basket, increment points by one
-						boolean makesAndOne = this.makesAndOne(currentRow);
-						if (makesAndOne) points++;
-						// increment points by amount scored on basket
-						if (shot == CONSTANTS.DUNK || shot == CONSTANTS.TIPSHOT || shot == CONSTANTS.LAYUP  || shot <= 23) points +=2;
-						else if (shot > 23 || shot == CONSTANTS.THREE) points +=3;
-						// all made baskets that aren't threes are twos
-						else if (shot == CONSTANTS.UNCLASSIFIED) points +=2;
+						// if he makes an "and one" on the basket (fouled on made basket and makes free throw), increment points scored by one
+						if (this.makesAndOne(currentRow)) pointsScored++;
 						
-						/*
-						 * ERROR CHECK
-						 */
-						else {
-							_writer.println("Made Basket Error: " + rowText + "\n");
+						// if offensive team makes a technical free throw, they keep possession so increment by one point and continue
+						if (rowText.contains("technical")) {
+							pointsScored++;
+							continue;
 						}
-						
-						return points;
+						// increment points scored by how much made shot is worth
+						else if (shot == CONSTANTS.FREETHROW) pointsScored = this.freeThrowsMade(currentRow);
+						else if (shot == CONSTANTS.DUNK || shot == CONSTANTS.TIPSHOT || shot == CONSTANTS.LAYUP  || shot <= 23) pointsScored +=2;
+						else if ((shot > 23 && shot < 94) || shot == CONSTANTS.THREE) pointsScored +=3;
+						// all made baskets that aren't threes are probably twos. Check array for text to confirm
+						else if (shot == CONSTANTS.MISC) {
+							pointsScored +=2;
+							_miscShotChecker.add(rowText);
+						}
+						// ERROR CHECK
+						else _writer.println("MADE SHOT ERROR");
+						calculatedPointsScored = true;
 					}
-					
-					// if a team does not score on their next possession in any of the following ways, return 0
-					if (rowText.contains("misses") || rowText.contains("blocks")) return 0;
-					if (rowText.contains("turnover")) return 0;
-					if (rowText.contains("offensive foul")) return 0;
-					if (rowText.contains("traveling")) return 0;	
-				}
-				
-				// if the non offensive rebounding team is what appears in the play-by-play row
-				else if (currentPossession != reboundPossession) {
-					if (rowText.contains("shooting foul")) return this.freeThrowsMade(currentRow);
-			
-					// if defensive team commits personal foul, continue to next iteration since offense still has possession
-					else if (rowText.contains("personal foul")) {
-						_writer.println("Personal Foul \n");
+					// special case - if someone misses first free throw, they could still get points (unlike any other shot)
+					else if (rowText.contains("misses") && rowText.contains("free")) {
+						pointsScored = this.freeThrowsMade(currentRow);
+						calculatedPointsScored = true;
+					}
+					// if team does not score and turns ball over on next possession in any of the following ways, they get 0 points
+					else if (rowText.contains("misses") || rowText.contains("blocks") || rowText.contains("turnover") || rowText.contains("foul") || rowText.contains("traveling") || rowText.contains("bad pass") || rowText.contains("kicked ball")) {
+						pointsScored = 0;
+						calculatedPointsScored = true;
+					}
+					// accidentally credits offensive rebound twice sometimes (player then team), continue to find out whether they score
+					else if (rowText.contains("rebound")) {
 						continue;
 					}
+					//ERROR CHECK
+					else {
+						_writer.println("UNEXPECTED PLAY-BY-PLAY TEXT - SAME POSSESSION ERROR" + rowText);
+						return CONSTANTS.ERROR;
+					}
 				}
-				/*
-				 * ERROR CHECK
-				 */
+				
+				// if the team that doesn't get the offensive rebound appears next in the play-by-play
+				else if (currentPossession != reboundPossession) {
+					// if opposing team gets a rebound, offensive team didn't score
+					if (rowText.contains("rebound")) {
+						pointsScored = 0;
+						calculatedPointsScored = true;
+					}
+					// if defensive team commits foul or a kicked ball violation, continue to next iteration since offense still has possession
+					else if (rowText.contains("foul") || rowText.contains("kicked ball")) {
+						continue;
+					}
+					//ERROR CHECK
+					else {
+						_writer.println("UNEXPECTED PLAY-BY-PLAY TEXT-DIFFERENT POSSESSION ERROR " + rowText);
+						return CONSTANTS.ERROR;
+					}
+				}
+				// ERROR CHECK
 				else {
-					_writer.println("Unexpected play-by-play text: " + rowText + "\n");
-					break;
+					_writer.println("UNEXPECTED PLAY-BY-PLAY TEXT - POSSESSION ERROR " + rowText);
+					return CONSTANTS.ERROR;
 				}
 		}
-		return 0;
+		_writer.println("Points Scored Off Rebound: " + pointsScored + "\n");
+		return pointsScored;
 	}
 	
 	// checks to see if someone gets an And One on a basket (fouled in addition to making basket)
 	public boolean makesAndOne(Element basketRow) {
-		// first, check to see if the opposing commits a shooting foul. If not, return false right away
-		Possession basketPossession = this.getPossession(basketRow);
+		// first, check to see if the opposing team commits a shooting foul. If not, return false right away
+		Possession tookShotPossession = this.getPossession(basketRow);
 		Element nextRow = basketRow.nextElementSibling();
-		Possession nextRowPossession = this.getPossession(nextRow);
+		Possession nextActionPossession = this.getPossession(nextRow);
 		boolean isFoulOnBasket = false;
-		if (basketPossession != nextRowPossession) {
+		if (tookShotPossession != nextActionPossession) {
 			if (nextRow.text().contains("shooting foul")) {
 				isFoulOnBasket = true;
 			}
@@ -408,6 +448,7 @@ public class BestOffensiveRebounds {
 			return false;
 		}
 		
+		// if there is a foul and they make the free throw, return true. otherwise, return false
 		if (this.freeThrowsMade(nextRow) == 1) {
 			return true;
 		}
@@ -435,16 +476,16 @@ public class BestOffensiveRebounds {
 		if (rowText.contains("of 1")) numFreeThrows = 1;
 		else if (rowText.contains("of 2")) numFreeThrows = 2;
 		else if (rowText.contains("of 3")) numFreeThrows = 3;
-		/*
-		 * ERROR CHECK
-		 */
-		else _writer.println("freeThrows of 1 of 2 of 3 counting error: " + rowText + "\n");
+		//Error Check
+		else _writer.println("freeThrows of 1 of 2 of 3 counting ERROR: " + rowText + "\n");
 		
 		// count number of free throws made
 		int pointsScored = 0;
 		int freeThrowsCounted = 0;
 		// only increment freeThrowsCounted on make or miss (not on a substitution or something between shots)
 		while (freeThrowsCounted != numFreeThrows) {
+			//Error Check
+			_writer.println(rowText);
 			if (rowText.contains("makes")) {
 				pointsScored++;
 				freeThrowsCounted++;
@@ -483,10 +524,8 @@ public class BestOffensiveRebounds {
 			}
 		}
 		
-		/*
-		 * ERROR CHECK
-		 */
-		_writer.println("No possession determined" + playByPlayRow.text() + "\n");
+		// ERROR CHECK
+		_writer.println("ERROR No possession determined" + playByPlayRow.text() + "\n");
 		return null;
 		
 	}
@@ -502,8 +541,8 @@ public class BestOffensiveRebounds {
 				
 				_writer.println("\n");
 				
-				if (i == CONSTANTS.UNCLASSIFIED) {
-					_writer.println("Offensive rebounds off unclassified shots: " + _ptsAfterOffRebounds[i] + "\n");
+				if (i == CONSTANTS.MISC) {
+					_writer.println("Offensive rebounds off misc shots: " + _ptsAfterOffRebounds[i] + "\n");
 				}
 				else if (i == CONSTANTS.THREE) {
 					_writer.println("Offensive rebounds off threes: " + _ptsAfterOffRebounds[i] + "\n");
