@@ -89,13 +89,12 @@ public class BestOffensiveRebounds {
 	public Document findSchedule(String week) {
 		
 		/*
-		 * To test on just one page of schedule, uncomment out the url one line below and comment out the current url.
-		 */ 
-		 String url = "http://espn.go.com/nba/schedule/_/date/20140413";
-		 
+		 * To test on just one page of schedule, uncomment out the url one line below and comment out the current url. 
+		 * String url = "http://espn.go.com/nba/schedule/_/date/20140413";
+		 */
 		 
 		
-		// String url = "http://espn.go.com/nba/schedule/_/date/"+week;
+		String url = "http://espn.go.com/nba/schedule/_/date/"+week;
 		
 		Document schedulePage = null;
 		try {
@@ -391,7 +390,6 @@ public class BestOffensiveRebounds {
 					}
 					// if team does not score and turns ball over on next possession in any of the following ways, they get 0 points
 					else if (rowText.contains("misses") || rowText.contains("blocks") || rowText.contains("turnover") || rowText.contains("foul") || rowText.contains("traveling") || rowText.contains("bad pass") || rowText.contains("kicked ball")) {
-						pointsScored = 0;
 						calculatedPointsScored = true;
 					}
 					// accidentally credits offensive rebound twice sometimes (player then team), continue to find out whether they score
@@ -409,7 +407,6 @@ public class BestOffensiveRebounds {
 				else if (currentPossession != reboundPossession) {
 					// if opposing team gets a rebound, offensive team didn't score
 					if (rowText.contains("rebound")) {
-						pointsScored = 0;
 						calculatedPointsScored = true;
 					}
 					// if defensive team commits foul or a kicked ball violation, continue to next iteration since offense still has possession
@@ -536,6 +533,7 @@ public class BestOffensiveRebounds {
 	 *  of offensive or defensive rebounds that index is holding.
 	 */
 	public void interpretResults() {
+		_writer.println(_miscShotChecker);
 		for (int i = 0; i < _ptsAfterOffRebounds.length; i++) {
 			if (_ptsAfterOffRebounds[i].isEmpty() == false) {
 				
