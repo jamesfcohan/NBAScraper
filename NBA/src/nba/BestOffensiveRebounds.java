@@ -78,6 +78,7 @@ public class BestOffensiveRebounds {
 			
 			date.addWeeks(1);
 			week = fmt.print(date);
+			_finishedParsing = true;
 		}
 		
 		// when done parsing schedule, print number of offensive and defensive rebounds resulting from misses from each distance
@@ -93,8 +94,8 @@ public class BestOffensiveRebounds {
 		 * String url = "http://espn.go.com/nba/schedule/_/date/20140413";
 		 */
 		 
-		
-		String url = "http://espn.go.com/nba/schedule/_/date/"+week;
+		String url = "http://espn.go.com/nba/schedule/_/date/20131204";
+		//String url = "http://espn.go.com/nba/schedule/_/date/"+week;
 		
 		Document schedulePage = null;
 		try {
@@ -216,8 +217,8 @@ public class BestOffensiveRebounds {
 			Elements table = playByPlayPage.getElementsByClass("mod-data");
 			Elements rows = table.select("tr");
 			for (Element row: rows) {
-				// add cells that contain the word misses or blocks, don't include missed free throws that aren't last free throw taken since no rebound
-				Elements miss = row.select("td:contains(misses), td:contains(blocks)").not("td:contains(1 of 2), td:contains(1 of 3), td:contains(2 of 3)");
+				// add cells that contain the word misses or blocks, don't include missed free throws that aren't last free throw taken or technical free throws since no rebound
+				Elements miss = row.select("td:contains(misses), td:contains(blocks)").not("td:contains(1 of 2), td:contains(1 of 3), td:contains(2 of 3), td:contains(technical");
 				if (!miss.isEmpty()) {
 					Element reboundRow = row.nextElementSibling();
 					
@@ -231,21 +232,43 @@ public class BestOffensiveRebounds {
 						
 						Elements reboundCell = reboundRow.select("td:contains(rebound)");
 						if (!reboundCell.isEmpty()) {
-							// there has been a miss and a rebound. classify the type of miss. missIndex is equal to number of feet shot is taken from
-							int missIndex = this.classifyShot(miss);
-							
-							// if there is an offensive rebound, record how many points it results in
-							String text = reboundCell.text();
-							if (text.contains("offensive")) {
-								/*
-								 * ERROR CHECK
-								 */
+							if (reboundCell.text().contains("offensive")) {
+								// ERROR CHECK
 								_writer.println("\nOffensive Rebound Number: " + offensiveReboundNum);
-								_writer.println(text);
 								offensiveReboundNum++;
+								_writer.println(miss.text());
+								
+								// there has been a miss and an offensive rebound. classify the type of miss. missIndex is equal to number of feet shot is taken from
+								int missIndex = this.classifyShot(miss);
+								
+								// if it's a tipshot, work around potential bug in ESPN's play-by-play
+								//if (missIndex == CONSTANTS.TIPSHOT) 
+									if (this.fixESPNTipShotBug(row, reboundRow)) {
+										continue;
+									}
 								
 								int pointsScored = this.pointsOffRebound(reboundRow);
-								_ptsAfterOffRebounds[missIndex].add(pointsScored);				
+								_ptsAfterOffRebounds[missIndex].add(pointsScored);
+								
+								//ERROR CHECK: Print out most recently added stat.
+								_writer.println("Result: missIndex - " + missIndex + " Points Added - " + _ptsAfterOffRebounds[missIndex].get(_ptsAfterOffRebounds[missIndex].size()-1));
+							}
+						}
+						/*
+						 * Sometimes if someone makes or misses a basket on a putback after a missed shot, ESPN play-by-play credits the shot first and then the rebound.
+						 * The order should be reversed. Deal with this bug in ESPN's play-by-play by 
+						 */
+						else { 
+							Element putBackShotRow = reboundRow;
+							Elements putBackShotCells = putBackShotRow.select("td:contains(misses), td:contains(blocks), td:contains(makes)");
+							Possession putBackShotPossession = this.getPossession(putBackShotRow);
+							Possession firstShotPossession = this.getPossession(row);
+							// there is a shot in the row directly after the first shot and it is by the same team, so there's a bug
+							if (!putBackShotCells.isEmpty() && putBackShotPossession == firstShotPossession) {
+								int missIndex = this.classifyShot(miss);
+								
+								//ERROR CHECK: Print out most recently added stat.
+								_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
 							}
 						}
 					}
@@ -318,7 +341,11 @@ public class BestOffensiveRebounds {
 	}
 	
 	
-	// returns how many points are scored off an offensive rebound
+	/*
+	 * returns how many points are scored off an offensive rebound
+	 * 
+	 * Tons of edge cases to consider. 
+	 */
 	public int pointsOffRebound(Element reboundRow) {
 		
 		int pointsScored = 0;
@@ -329,15 +356,17 @@ public class BestOffensiveRebounds {
 		Possession currentPossession = null;
 		Element currentRow = reboundRow;
 		
+		_writer.println("Rebound Row: " + reboundRow.text());
+		_writer.println("Rebound Possession: " + reboundPossession);
+		
 		while (calculatedPointsScored == false) {
 				// get text and possession for next row in play-by-play
 				currentRow = currentRow.nextElementSibling();
 				currentPossession = this.getPossession(currentRow);
 				String rowText = currentRow.text();
 				
-				_writer.println("Rebound Row: " + reboundRow.text());
+				
 				_writer.println("Current Row: " + currentRow.text());
-				_writer.println("Rebound Possession: " + reboundPossession);
 				_writer.println("Current Possession: " + currentPossession);
 				
 				// if quarter over, text says "End of the nth Quarter." Since quarter over, no points scored off rebound
@@ -346,14 +375,14 @@ public class BestOffensiveRebounds {
 					calculatedPointsScored = true;
 				}
 				
-				// if there is a substitution, timeout or jump ball continue to next line in play-by-play
-				else if (rowText.contains("enters the game") || rowText.contains("timeout") || rowText.contains("vs")){
+				// if there is a substitution, timeout, jump ball, delay of game violation, ejection, or technical foul  continue to next line in play-by-play since possession doesn't change (if possession changes on jump ball, it says turnover in next line)
+				else if (rowText.contains("enters the game") || rowText.contains("timeout") || rowText.contains("vs") || rowText.contains("delay") || rowText.contains("technical foul") || rowText.contains("ejected")){
 					continue;
 				}
 				
 				// if after team gets offensive rebound, they are the next team to appear in play-by-play
 				else if (currentPossession == reboundPossession) {
-					// if a team makes the shot, return how many points they got
+					// if a team makes the shot, return how many points they got (if goaltending, it appears after made shot in play-by-play, so no need to account for it) 
 					if (rowText.contains("makes")) {
 						// classify shot. must pass in exact cell and not all cells because gametime numbers neighboring play-by-play cells will mess up shot location 
 						int shot = 0;
@@ -361,7 +390,7 @@ public class BestOffensiveRebounds {
 						else if (currentPossession == Possession.AWAY) shot = this.classifyShot(currentRow.select("td:nth-child(2)"));
 						// ERROR CHECK
 						else _writer.println("ERROR classifying shot: " + rowText + "\n");
-					
+						
 						// if he makes an "and one" on the basket (fouled on made basket and makes free throw), increment points scored by one
 						if (this.makesAndOne(currentRow)) pointsScored++;
 						
@@ -371,7 +400,7 @@ public class BestOffensiveRebounds {
 							continue;
 						}
 						// increment points scored by how much made shot is worth
-						else if (shot == CONSTANTS.FREETHROW) pointsScored = this.freeThrowsMade(currentRow);
+						else if (shot == CONSTANTS.FREETHROW) pointsScored += this.freeThrowsMade(currentRow);
 						else if (shot == CONSTANTS.DUNK || shot == CONSTANTS.TIPSHOT || shot == CONSTANTS.LAYUP  || shot <= 23) pointsScored +=2;
 						else if ((shot > 23 && shot < 94) || shot == CONSTANTS.THREE) pointsScored +=3;
 						// all made baskets that aren't threes are probably twos. Check array for text to confirm
@@ -383,13 +412,17 @@ public class BestOffensiveRebounds {
 						else _writer.println("MADE SHOT ERROR");
 						calculatedPointsScored = true;
 					}
-					// special case - if someone misses first free throw, they could still get points (unlike any other shot)
+					// edge case - if someone misses technical free throw, continue since they keep possession
+					else if (rowText.contains("misses") && rowText.contains("technical")) {
+						continue;
+					}
+					// edge case - if someone misses first regular free throw, they could still get points (unlike any other shot)
 					else if (rowText.contains("misses") && rowText.contains("free")) {
-						pointsScored = this.freeThrowsMade(currentRow);
+						pointsScored += this.freeThrowsMade(currentRow);
 						calculatedPointsScored = true;
 					}
 					// if team does not score and turns ball over on next possession in any of the following ways, they get 0 points
-					else if (rowText.contains("misses") || rowText.contains("blocks") || rowText.contains("turnover") || rowText.contains("foul") || rowText.contains("traveling") || rowText.contains("bad pass") || rowText.contains("kicked ball")) {
+					else if (rowText.contains("misses") || rowText.contains("blocks") || rowText.contains("turnover") || rowText.contains("foul") || rowText.contains("traveling") || rowText.contains("bad pass") || rowText.contains("violation") || rowText.contains("3-seconds")) {
 						calculatedPointsScored = true;
 					}
 					// accidentally credits offensive rebound twice sometimes (player then team), continue to find out whether they score
@@ -405,12 +438,17 @@ public class BestOffensiveRebounds {
 				
 				// if the team that doesn't get the offensive rebound appears next in the play-by-play
 				else if (currentPossession != reboundPossession) {
-					// if opposing team gets a rebound, offensive team didn't score
-					if (rowText.contains("rebound")) {
+					// edge case - if offense commits a tech, defensive team shoots tech but offense keeps possession so continue
+					if (rowText.contains("technical free throw")) {
+						continue;
+					}
+					
+					// if opposing team gets a rebound, misses/makes/blocks a shot, or makes a bad pass/turns it over, offensive team didn't score since other team had possession
+					else if (rowText.contains("rebound") || rowText.contains("misses") || rowText.contains("makes") || rowText.contains("pass") || rowText.contains("blocks") || rowText.contains("turnover")) {
 						calculatedPointsScored = true;
 					}
-					// if defensive team commits foul or a kicked ball violation, continue to next iteration since offense still has possession
-					else if (rowText.contains("foul") || rowText.contains("kicked ball")) {
+					// if defensive team commits foul, kicked ball/jump ball/lane violation, defensive 3-seconds, continue to next iteration since offense still has possession
+					else if (rowText.contains("foul") || rowText.contains("violation") || rowText.contains("3-seconds")) {
 						continue;
 					}
 					//ERROR CHECK
@@ -526,6 +564,67 @@ public class BestOffensiveRebounds {
 		return null;
 		
 	}
+	
+	
+	/*
+	 * There is a bug in ESPN's play-by-plays, where sometimes when a player attempts to tip in a missed shot,
+	 * the play-by-play first credits the tipshot, and then the rebound (the rebound should come before the shot).
+	 * This method makes sure the offensive rebound is credited to the correct shot.
+	 * First it checks the row before the tipshot to see if it was a missed shot by the same team. 
+	 * If it was a missed shot, then that is the shot that truly resulted in an offensive rebound, not the tip shot. It
+	 * then credits this shot as resulting in an offensive rebound that led to a missed tip shot (zero points).
+	 * Finally, it checks to see whether the tipshot resulted in an offensive or defensive rebound by checking the rows
+	 * after the initial rebound row (which is the rebound row for the nontipshot). It then recor 
+	 */
+	public boolean fixESPNTipShotBug(Element tipShotRow, Element reboundRow) {
+		Element previousRow = tipShotRow.previousElementSibling();
+		Elements missCells = previousRow.select("td:contains(misses), td:contains(blocks)");
+		
+		Possession previousRowPossession = this.getPossession(previousRow);
+		Possession tipShotRowPossession = this.getPossession(tipShotRow);
+		
+		// if play-by-play row before tip shot contained missed shot by same team, then there's a bug. If not, there's no bug, so return false
+		if (!(previousRowPossession == tipShotRowPossession && !missCells.isEmpty())) {
+			return false;
+		}
+		_writer.println("TIPSHOT BUG");
+		
+		// since the shot in the previous row led to a missed tip shot, record that it resulted in 0 points
+		int missIndex = this.classifyShot(missCells); 
+		_ptsAfterOffRebounds[missIndex].add(0);	
+		//ERROR CHECK: Print out most recently added stat.
+		_writer.println("Result: missIndex - " + missIndex+ " Points Added - " + _ptsAfterOffRebounds[missIndex].get(_ptsAfterOffRebounds[missIndex].size()-1));
+		
+		// now need to see if the tip shot led to an offensive rebound, and if so, record the points scored off of it
+		Element reboundRowOffTipShot = reboundRow.nextElementSibling();
+		_writer.println(previousRow.text() +"\n" + reboundRow.text() + "\n" + reboundRowOffTipShot.text() + "\n");
+		if (reboundRowOffTipShot != null) {
+			Elements reboundCell = reboundRowOffTipShot.select("td:contains(rebound)");
+			if (!reboundCell.isEmpty()) {
+				if (reboundCell.text().contains("offensive")) {
+					int pointsScored = this.pointsOffRebound(reboundRowOffTipShot);
+					_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].add(pointsScored);
+					//ERROR CHECK: Print out most recently added stat.
+					_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
+				}
+			}
+			// Sometimes if someone makes or misses a basket directly after a missed tip shot, it credits the shot first then the rebound (same as tip shot bug)
+			else { 
+				Element shotRowOffTipShot = reboundRowOffTipShot;
+				Elements shotCell = shotRowOffTipShot.select("td:contains(misses), td:contains(blocks), td:contains(makes)");
+				Possession shotPossession = this.getPossession(shotRowOffTipShot);
+				if (!shotCell.isEmpty() && shotPossession == tipShotRowPossession) {
+					int pointsScored = this.pointsOffRebound(reboundRow);
+					_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].add(pointsScored);
+					//ERROR CHECK: Print out most recently added stat.
+					_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
+				}
+			}
+		}
+		return true;	
+	}
+	
+	public void 
 	
 	/*
 	 *  This method takes in the offensive and defensive rebounding arrays and interprets and prints out their results
