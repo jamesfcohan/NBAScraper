@@ -9,7 +9,9 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
+import java.util.ListIterator;
 import java.io.*;
 
 public class BestOffensiveRebounds {
@@ -216,12 +218,15 @@ public class BestOffensiveRebounds {
 			// iterate through play-by-play table recording data
 			Elements table = playByPlayPage.getElementsByClass("mod-data");
 			Elements rows = table.select("tr");
-			for (Element row: rows) {
+			int arraySize = rows.size();
+			Object[] rowArray = rows.toArray();
+			
+			for (int i = 0; i < arraySize; i++){
+				Element row = (Element) rowArray[i];
 				// add cells that contain the word misses or blocks, don't include missed free throws that aren't last free throw taken or technical free throws since no rebound
 				Elements miss = row.select("td:contains(misses), td:contains(blocks)").not("td:contains(1 of 2), td:contains(1 of 3), td:contains(2 of 3), td:contains(technical");
 				if (!miss.isEmpty()) {
 					Element reboundRow = row.nextElementSibling();
-					
 					// rebound row will be null if miss is last row in quarter summary (no rebound since quarter is over)
 					if (reboundRow != null) {
 						// make sure row doesn't have 0:00 on the clock (occasionally espn's play-by-play will credit rebound at end of quarter where there is none)
@@ -230,46 +235,40 @@ public class BestOffensiveRebounds {
 							continue;
 						}
 						
-						Elements reboundCell = reboundRow.select("td:contains(rebound)");
-						if (!reboundCell.isEmpty()) {
-							if (reboundCell.text().contains("offensive")) {
-								// ERROR CHECK
-								_writer.println("\nOffensive Rebound Number: " + offensiveReboundNum);
-								offensiveReboundNum++;
-								_writer.println(miss.text());
-								
-								// there has been a miss and an offensive rebound. classify the type of miss. missIndex is equal to number of feet shot is taken from
-								int missIndex = this.classifyShot(miss);
-								
-								// if it's a tipshot, work around potential bug in ESPN's play-by-play
-								//if (missIndex == CONSTANTS.TIPSHOT) 
-									if (this.fixESPNTipShotBug(row, reboundRow)) {
-										continue;
-									}
-								
-								int pointsScored = this.pointsOffRebound(reboundRow);
-								_ptsAfterOffRebounds[missIndex].add(pointsScored);
-								
-								//ERROR CHECK: Print out most recently added stat.
-								_writer.println("Result: missIndex - " + missIndex + " Points Added - " + _ptsAfterOffRebounds[missIndex].get(_ptsAfterOffRebounds[missIndex].size()-1));
-							}
+						// if there's a putback shot after a miss, sometimes it credits shot first then the rebound. 
+						// if that is the case, switch the text in those rows to fix bug
+						if (this.isEspnPutBackBug(reboundRow)){
+							Element nextRow = reboundRow.nextElementSibling();
+							//ERROR CHECK
+							_writer.println("Fixed PutBack Bug");
+							_writer.println("First Row Before: " + reboundRow.text());
+							_writer.println("Second Row Before: " + nextRow.text());
+							
+							String tempText = reboundRow.html();
+							reboundRow.html(nextRow.html());
+							nextRow.html(tempText);
+							
+							rowArray[i] = reboundRow;
+							rowArray[i+1] = nextRow;
+							//ERROR CHECK
+							_writer.println("First Row After: " + reboundRow.text());
+							_writer.println("Second Row After: " + nextRow.text());
 						}
-						/*
-						 * Sometimes if someone makes or misses a basket on a putback after a missed shot, ESPN play-by-play credits the shot first and then the rebound.
-						 * The order should be reversed. Deal with this bug in ESPN's play-by-play by 
-						 */
-						else { 
-							Element putBackShotRow = reboundRow;
-							Elements putBackShotCells = putBackShotRow.select("td:contains(misses), td:contains(blocks), td:contains(makes)");
-							Possession putBackShotPossession = this.getPossession(putBackShotRow);
-							Possession firstShotPossession = this.getPossession(row);
-							// there is a shot in the row directly after the first shot and it is by the same team, so there's a bug
-							if (!putBackShotCells.isEmpty() && putBackShotPossession == firstShotPossession) {
-								int missIndex = this.classifyShot(miss);
+						
+						if (reboundRow.text().contains("offensive rebound")) {
+							// ERROR CHECK
+							_writer.println("\nOffensive Rebound Number: " + offensiveReboundNum);
+							offensiveReboundNum++;
+							_writer.println(miss.text());
+							
+							// there has been a miss and an offensive rebound. classify the type of miss. missIndex is equal to number of feet shot is taken from
+							int missIndex = this.classifyShot(miss);
+							int pointsScored = this.pointsOffRebound(reboundRow);
+							_ptsAfterOffRebounds[missIndex].add(pointsScored);
 								
-								//ERROR CHECK: Print out most recently added stat.
-								_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
-							}
+							//ERROR CHECK: Print out most recently added stat.
+							_writer.println("Result: missIndex - " + missIndex + " Points Added - " + _ptsAfterOffRebounds[missIndex].get(_ptsAfterOffRebounds[missIndex].size()-1));
+							
 						}
 					}
 				}
@@ -624,7 +623,41 @@ public class BestOffensiveRebounds {
 		return true;	
 	}
 	
-	public void 
+	
+	/*
+	 * There is a bug in ESPN's play-by-plays, where sometimes when there is a putback shot, it credits
+	 * the shot first, and then the offensive rebound that led to the shot second. 
+	 * Even though these things are virtually one motion, the rebound should come first, and then the shot. 
+	 * If this bug appears, switch the text in the rows to correct the bug.
+	 */
+	public boolean isEspnPutBackBug(Element putBackRow) {
+		Element reboundRow = putBackRow.nextElementSibling();
+		
+		boolean isPutBackShot = false;
+		if (putBackRow.text().contains("misses") || putBackRow.text().contains("blocks") || putBackRow.text().contains("makes")) {
+			isPutBackShot = true;
+		}
+		
+		boolean isRebound = false;
+		if (reboundRow.text().contains("rebound")) {
+			isRebound = true;
+		}
+		
+		boolean isSameTime = false;
+		String gameClockPutBack = putBackRow.select("td:nth-child(1)").text();
+		String gameClockRebound = reboundRow.select("td:nth-child(1)").text();
+		if (gameClockPutBack.equals(gameClockRebound)) {
+			isSameTime = true;
+		}
+		
+		// if there is a putback shot and a rebound, and they occur at the same time, switch text in rows so that rebound comes before shot
+		if (isPutBackShot && isRebound && isSameTime) {
+			return true;
+		}
+		
+		return false;
+
+	}
 	
 	/*
 	 *  This method takes in the offensive and defensive rebounding arrays and interprets and prints out their results
