@@ -24,6 +24,10 @@ public class BestOffensiveRebounds {
 	private int _playByPlayCounter;
 	private int _boxScoreCounter;
 	
+	private double _totalNumOffRebounds;
+	private double _totalPtsAfterOffRebounds;
+
+	
 	private ArrayList<String> _miscShotChecker;
 		
 	public BestOffensiveRebounds() {
@@ -37,7 +41,7 @@ public class BestOffensiveRebounds {
 
 		// number of feet from basket shot is taken from is used as index in array. 
 		// So each index holds the number of rebounds resulting from misses from that distance
-		int arraySize = 150;
+		int arraySize = 8;
 		_ptsAfterOffRebounds = new ArrayList[arraySize];
 		for (int i = 0; i < arraySize; i++) {
 			_ptsAfterOffRebounds[i] = new ArrayList<Integer>();
@@ -80,7 +84,6 @@ public class BestOffensiveRebounds {
 			
 			date.addWeeks(1);
 			week = fmt.print(date);
-			_finishedParsing = true;
 		}
 		
 		// when done parsing schedule, print number of offensive and defensive rebounds resulting from misses from each distance
@@ -96,8 +99,7 @@ public class BestOffensiveRebounds {
 		 * String url = "http://espn.go.com/nba/schedule/_/date/20140413";
 		 */
 		 
-		String url = "http://espn.go.com/nba/schedule/_/date/20131204";
-		//String url = "http://espn.go.com/nba/schedule/_/date/"+week;
+		String url = "http://espn.go.com/nba/schedule/_/date/"+week;
 		
 		Document schedulePage = null;
 		try {
@@ -248,8 +250,8 @@ public class BestOffensiveRebounds {
 							reboundRow.html(nextRow.html());
 							nextRow.html(tempText);
 							
-							rowArray[i] = reboundRow;
-							rowArray[i+1] = nextRow;
+							rowArray[i+1] = reboundRow;
+							rowArray[i+2] = nextRow;
 							//ERROR CHECK
 							_writer.println("First Row After: " + reboundRow.text());
 							_writer.println("Second Row After: " + nextRow.text());
@@ -260,6 +262,7 @@ public class BestOffensiveRebounds {
 							_writer.println("\nOffensive Rebound Number: " + offensiveReboundNum);
 							offensiveReboundNum++;
 							_writer.println(miss.text());
+							_totalNumOffRebounds++;
 							
 							// there has been a miss and an offensive rebound. classify the type of miss. missIndex is equal to number of feet shot is taken from
 							int missIndex = this.classifyShot(miss);
@@ -283,17 +286,11 @@ public class BestOffensiveRebounds {
 	public int classifyShot(Elements shot) {
 		String shotText = shot.text();
 
-		if (shotText.contains("layup")){
-			return CONSTANTS.LAYUP;
+		if (shotText.contains("layup") || shotText.contains("tip") || shotText.contains("dunk")){
+			return CONSTANTS.ATRIM;
 		}
 		else if (shotText.contains("three") || shotText.contains("3-pt") || shotText.contains("3-point")) {
-			return CONSTANTS.THREE;
-		}
-		else if (shotText.contains("tip")) {
-			return CONSTANTS.TIPSHOT;
-		}
-		else if (shotText.contains("dunk")) {
-			return CONSTANTS.DUNK;
+			return CONSTANTS.THREEPOINTER;
 		}
 		else if (shotText.contains("free")) {
 			return CONSTANTS.FREETHROW;
@@ -321,21 +318,29 @@ public class BestOffensiveRebounds {
 					_writer.println("LOCATION ERROR: " + shotText + "\n\n\n");
 					return CONSTANTS.ERROR;
 				}
-				
+				if (location <= 2) {
+					return CONSTANTS.ATRIM;
+				}
+				else if (location >= 3 && location <=9) {
+					return CONSTANTS.THREETONINE;
+				}
+				else if (location >= 10 && location <=15) {
+					return CONSTANTS.TENTOFIFTEEN;
+				}
+				else if (location >= 17 && location <=23) {
+					return CONSTANTS.SEVENTEENTOTWENTYTHREE;
+				}
 				/*
 				 * a few misses in play-by-play on espn.com are missing text saying three-pointer. 
 				 * three point line is anywhere from 22-feet long on corners to 23 feet 9 inches at top
 				 * so anything 24 feet and above is guaranteed to be a three
 				 */
-				if (location >= 24) {
-					return CONSTANTS.THREE;
+				else if (location >= 24) {
+					return CONSTANTS.THREEPOINTER;
 				}
-				
-				return location;
 			}
 	    }
-		
-		// some shots in espn.com's play-by-play are known only as "jumper" or "bank shot" or "two point shot"
+		// some shots in espn.com's play-by-play are known only as "jumper" or "bank shot" or "two point shot" or other two-point shots
 		return CONSTANTS.MISC;
 	}
 	
@@ -400,8 +405,8 @@ public class BestOffensiveRebounds {
 						}
 						// increment points scored by how much made shot is worth
 						else if (shot == CONSTANTS.FREETHROW) pointsScored += this.freeThrowsMade(currentRow);
-						else if (shot == CONSTANTS.DUNK || shot == CONSTANTS.TIPSHOT || shot == CONSTANTS.LAYUP  || shot <= 23) pointsScored +=2;
-						else if ((shot > 23 && shot < 94) || shot == CONSTANTS.THREE) pointsScored +=3;
+						else if (shot == CONSTANTS.ATRIM || shot == CONSTANTS.THREETONINE || shot == CONSTANTS.TENTOFIFTEEN  || shot == CONSTANTS.SEVENTEENTOTWENTYTHREE || shot == CONSTANTS.MISC) pointsScored +=2;
+						else if ((shot > 23 && shot < 94) || shot == CONSTANTS.THREEPOINTER) pointsScored +=3;
 						// all made baskets that aren't threes are probably twos. Check array for text to confirm
 						else if (shot == CONSTANTS.MISC) {
 							pointsScored +=2;
@@ -563,67 +568,7 @@ public class BestOffensiveRebounds {
 		return null;
 		
 	}
-	
-	
-	/*
-	 * There is a bug in ESPN's play-by-plays, where sometimes when a player attempts to tip in a missed shot,
-	 * the play-by-play first credits the tipshot, and then the rebound (the rebound should come before the shot).
-	 * This method makes sure the offensive rebound is credited to the correct shot.
-	 * First it checks the row before the tipshot to see if it was a missed shot by the same team. 
-	 * If it was a missed shot, then that is the shot that truly resulted in an offensive rebound, not the tip shot. It
-	 * then credits this shot as resulting in an offensive rebound that led to a missed tip shot (zero points).
-	 * Finally, it checks to see whether the tipshot resulted in an offensive or defensive rebound by checking the rows
-	 * after the initial rebound row (which is the rebound row for the nontipshot). It then recor 
-	 */
-	public boolean fixESPNTipShotBug(Element tipShotRow, Element reboundRow) {
-		Element previousRow = tipShotRow.previousElementSibling();
-		Elements missCells = previousRow.select("td:contains(misses), td:contains(blocks)");
-		
-		Possession previousRowPossession = this.getPossession(previousRow);
-		Possession tipShotRowPossession = this.getPossession(tipShotRow);
-		
-		// if play-by-play row before tip shot contained missed shot by same team, then there's a bug. If not, there's no bug, so return false
-		if (!(previousRowPossession == tipShotRowPossession && !missCells.isEmpty())) {
-			return false;
-		}
-		_writer.println("TIPSHOT BUG");
-		
-		// since the shot in the previous row led to a missed tip shot, record that it resulted in 0 points
-		int missIndex = this.classifyShot(missCells); 
-		_ptsAfterOffRebounds[missIndex].add(0);	
-		//ERROR CHECK: Print out most recently added stat.
-		_writer.println("Result: missIndex - " + missIndex+ " Points Added - " + _ptsAfterOffRebounds[missIndex].get(_ptsAfterOffRebounds[missIndex].size()-1));
-		
-		// now need to see if the tip shot led to an offensive rebound, and if so, record the points scored off of it
-		Element reboundRowOffTipShot = reboundRow.nextElementSibling();
-		_writer.println(previousRow.text() +"\n" + reboundRow.text() + "\n" + reboundRowOffTipShot.text() + "\n");
-		if (reboundRowOffTipShot != null) {
-			Elements reboundCell = reboundRowOffTipShot.select("td:contains(rebound)");
-			if (!reboundCell.isEmpty()) {
-				if (reboundCell.text().contains("offensive")) {
-					int pointsScored = this.pointsOffRebound(reboundRowOffTipShot);
-					_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].add(pointsScored);
-					//ERROR CHECK: Print out most recently added stat.
-					_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
-				}
-			}
-			// Sometimes if someone makes or misses a basket directly after a missed tip shot, it credits the shot first then the rebound (same as tip shot bug)
-			else { 
-				Element shotRowOffTipShot = reboundRowOffTipShot;
-				Elements shotCell = shotRowOffTipShot.select("td:contains(misses), td:contains(blocks), td:contains(makes)");
-				Possession shotPossession = this.getPossession(shotRowOffTipShot);
-				if (!shotCell.isEmpty() && shotPossession == tipShotRowPossession) {
-					int pointsScored = this.pointsOffRebound(reboundRow);
-					_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].add(pointsScored);
-					//ERROR CHECK: Print out most recently added stat.
-					_writer.println("Result: missIndex - " + CONSTANTS.TIPSHOT + " Points Added - " + _ptsAfterOffRebounds[CONSTANTS.TIPSHOT].get(_ptsAfterOffRebounds[CONSTANTS.TIPSHOT].size()-1));
-				}
-			}
-		}
-		return true;	
-	}
-	
-	
+
 	/*
 	 * There is a bug in ESPN's play-by-plays, where sometimes when there is a putback shot, it credits
 	 * the shot first, and then the offensive rebound that led to the shot second. 
@@ -632,6 +577,9 @@ public class BestOffensiveRebounds {
 	 */
 	public boolean isEspnPutBackBug(Element putBackRow) {
 		Element reboundRow = putBackRow.nextElementSibling();
+		if (reboundRow == null) {
+			return false;
+		}
 		
 		boolean isPutBackShot = false;
 		if (putBackRow.text().contains("misses") || putBackRow.text().contains("blocks") || putBackRow.text().contains("makes")) {
@@ -659,45 +607,59 @@ public class BestOffensiveRebounds {
 
 	}
 	
+	public double avgPtsAfterOffRebound(ArrayList<Integer> ptsAfterOffRebounds) {
+		double sumPtsAfterOffRebounds = 0;
+		double numOffRebounds = ptsAfterOffRebounds.size();
+		
+		for (double pts: ptsAfterOffRebounds) {
+			sumPtsAfterOffRebounds += pts;
+		}
+		_totalPtsAfterOffRebounds += sumPtsAfterOffRebounds;
+		
+		double avgPtsAfterOffRebound = sumPtsAfterOffRebounds / numOffRebounds;
+		return avgPtsAfterOffRebound;
+	}
+	
 	/*
 	 *  This method takes in the offensive and defensive rebounding arrays and interprets and prints out their results
 	 *  Since array indexes equal the distance from the basket shot is taken from, all it has to do is print out the number
 	 *  of offensive or defensive rebounds that index is holding.
 	 */
 	public void interpretResults() {
-		_writer.println(_miscShotChecker);
 		for (int i = 0; i < _ptsAfterOffRebounds.length; i++) {
 			if (_ptsAfterOffRebounds[i].isEmpty() == false) {
-				
 				_writer.println("\n");
-				
+				double avgPtsAfterOffRebound = 0;
 				if (i == CONSTANTS.MISC) {
-					_writer.println("Offensive rebounds off misc shots: " + _ptsAfterOffRebounds[i] + "\n");
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off misc shots: " + avgPtsAfterOffRebound + "\n");
 				}
-				else if (i == CONSTANTS.THREE) {
-					_writer.println("Offensive rebounds off threes: " + _ptsAfterOffRebounds[i] + "\n");
+				else if (i == CONSTANTS.THREEPOINTER) {
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off three-pointers: " + avgPtsAfterOffRebound + "\n");
 				}
 				else if (i == CONSTANTS.FREETHROW) {
-					_writer.println("Offensive rebounds off free throws: " + _ptsAfterOffRebounds[i] + "\n");
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off free throws: " + avgPtsAfterOffRebound + "\n");
 				}
-				else if (i == CONSTANTS.DUNK) {
-					_writer.println("Offensive rebounds off dunks: " + _ptsAfterOffRebounds[i] + "\n");
+				else if (i == CONSTANTS.ATRIM) {
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off shots at rim: " + avgPtsAfterOffRebound + "\n");
 				}
-				else if (i == CONSTANTS.LAYUP) {
-					_writer.println("Offensive rebounds off layups: " + _ptsAfterOffRebounds[i] + "\n");
-				}
-				else if (i == CONSTANTS.TIPSHOT) {
-					_writer.println("Offensive rebounds off tip shots: " + _ptsAfterOffRebounds[i] + "\n");
-				}
-				else if (i == CONSTANTS.ERROR) {
-					_writer.println("Offensive rebound error total: " + _ptsAfterOffRebounds[i] + "\n");
-				}
-				else if (i == 1) {
-					_writer.println("Offensive rebounds off shots from 1 foot: " + _ptsAfterOffRebounds[1] + "\n");
-				}
-				else {
-					_writer.println("Offensive rebounds off shots from "+i+" feet: " + _ptsAfterOffRebounds[i] + "\n");
+				else if (i == CONSTANTS.THREETONINE)  {
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off shots from 3 to 9 feet: "+ avgPtsAfterOffRebound + "\n");
 				}	
+				else if (i == CONSTANTS.TENTOFIFTEEN)  {
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off shots from 1O to 15 feet: "+ avgPtsAfterOffRebound + "\n");
+				}
+				else if (i == CONSTANTS.SEVENTEENTOTWENTYTHREE)  {
+					avgPtsAfterOffRebound = this.avgPtsAfterOffRebound(_ptsAfterOffRebounds[i]);
+					_writer.println("Average points after offensive rebounds off shots from 17 to 23 feet: "+ avgPtsAfterOffRebound + "\n");
+				}
+				double totalAvgPtsAfterOffRebound = _totalPtsAfterOffRebounds/_totalNumOffRebounds;
+				_writer.println("Average points after all offensive rebounds: " + totalAvgPtsAfterOffRebound);
 			}
 		}
 		_writer.close();
