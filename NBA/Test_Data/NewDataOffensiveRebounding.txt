@@ -1,29 +1,56 @@
+
+
 Offensive rebounds off shots at rim: 7930
+
 Defensive rebounds off shots at rim: 11595
-Offensive rebounding percentage at rim: 40.6145966709347%
+
+
+Offensive rebounding percentage at rim: 40.6145966709347%%
+
 
 Offensive rebounds off shots from 3 to 9 feet: 5181
+
 Defensive rebounds off shots from 3 to 9 feet: 9568
-Offensive rebounding percentage off shots from 3 to 9 feet: 35.12780527493389%
+
+
+Offensive rebounding percentage off shots from 3 to 9 feet: 35.12780527493389%%
+
 
 Offensive rebounds off shots from 10 to 15 feet: 2601
+
 Defensive rebounds off shots from 10 to 15: 7489
-Offensive rebounding percentage of shots from 10 to 15 feet: 25.777998017839444%
+
+
+Offensive rebounding percentage of shots from 10 to 15 feet: 25.777998017839444%%
+
 
 Offensive rebounds off shots from 16 to 23 feet: 4667
+
 Defensive rebounds off shots from 16 to 23: 16485
-Offensive rebounding percentage off shots from 16 to 23 feet: 22.06410741301059%
+
+
+Offensive rebounding percentage off shots from 16 to 23 feet: 22.06410741301059%%
+
 
 Offensive rebounds off threes: 8119
+
 Defensive rebounds off threes: 23841
-Offensive rebounding percentage of threes: 25.40362953692115%
+
+
+Offensive rebounding percentage of threes: 25.40362953692115%%
+
 
 Offensive rebounds off free throw: 987
+
 Defensive rebounds off free throws: 5933
-Offensive rebounding percentage off free throws: 14.263005780346822%
+
+
+Offensive rebounding percentage off free throws: 14.263005780346822%%
+
 
 Offensive rebounds misc shots: 2979
-Defensive rebounds off misc shots: 7187
-Offensive rebounding percentage off misc shots: 29.30356088923864%
 
-Offensive rebounding percentage of all shots: 28.337494107993926%
+Defensive rebounds off misc shots: 7187
+
+
+Offensive rebounding percentage off misc shots: 29.30356088923864%%

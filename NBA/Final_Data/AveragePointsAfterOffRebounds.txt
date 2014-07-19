@@ -1,0 +1,29 @@
+
+
+Average points after offensive rebounds off shots at rim: 1.068765664160401
+
+
+
+Average points after offensive rebounds off shots from 3 to 9 feet: 1.0063616344506974
+
+
+
+Average points after offensive rebounds off shots from 1O to 15 feet: 1.002805049088359
+
+
+
+Average points after offensive rebounds off shots from 16 to 23 feet: 1.0280251440544788
+
+
+
+Average points after offensive rebounds off three-pointers: 1.00889943636903
+
+
+
+Average points after offensive rebounds off free throws: 0.9873737373737373
+
+
+
+Average points after offensive rebounds off misc shots: 1.0869212022745736
+
+Average points after all offensive rebounds: 1.0318649712382681
